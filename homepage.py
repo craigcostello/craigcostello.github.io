@@ -34,7 +34,7 @@ def render_home(root,data,preview,a,e,img,archive,target,card):
   for link in item['links'][1:]:out+=a(target(link),link['text'])
   out+='</div></div></article>'
  out+='</div><p class="historical-note">The isogeny tutorial is a historical introduction to SIDH, which is no longer secure.</p></section>'
- out+='<section class="section" aria-labelledby="teaching">'+heading('teaching','Teaching at QUT')+'<p class="teaching-copy">I teach cryptography and cybersecurity, connecting mathematical ideas with the systems people use every day.</p><div class="course"><div class="course-code">CAB340</div><p><strong>Cryptography</strong><br>Unit coordinator and lecturer. Intuition before mathematics; examples before definitions.</p></div><div class="course"><div class="course-code">IFB240</div><p><strong>Cyber Security</strong><br>My QUT teaching also includes coordination and lecturing in cybersecurity.</p></div></section>'
+ out+='<section class="section" aria-labelledby="teaching">'+heading('teaching','Teaching at QUT')+'<p class="teaching-copy">I teach algorithms, cryptography and cybersecurity, connecting mathematical ideas with the systems people use every day.</p><div class="course"><div class="course-code">CAB340</div><p><strong>Cryptography</strong><br>Unit Coordinator and Lecturer. Intuition before mathematics; examples before definitions.</p></div><div class="course"><div class="course-code">CAB301</div><p><strong>Algorithms and Complexity</strong><br>Lecturer.</p></div><div class="course"><div class="course-code">IFB240</div><p><strong>Cyber Security</strong><br>Lecturer.</p></div></section>'
  people=data['people']
  out+='<section class="section" aria-labelledby="supervision">'+heading('supervision','Supervision and mentoring')+'<div class="people-grid">'
  for key,title in [('current','Current supervision · QUT'),('former','Previous PhD co-supervision')]:
@@ -70,7 +70,7 @@ def render_home(root,data,preview,a,e,img,archive,target,card):
  for committee in service['committees']:
   if committee['year'] is None:out+='<p class="other-service">'+e(committee['conference'])+'</p>'
  out+='</section>'
- out+='<section class="opportunities" aria-labelledby="work-with-me"><h2 id="work-with-me">Let’s work on hard problems.</h2><p>Interested in a PhD, Masters or Honours project with me at QUT?</p><p>'+a('mailto:'+profile['email']+'?subject=Research%20supervision%20enquiry','Get in touch')+'</p><p class="topic-list">Post-quantum cryptography · Computational number theory · Quantum algorithms</p></section>'
+ out+='<section class="opportunities" aria-labelledby="work-with-me"><h2 id="work-with-me">Let’s work on hard problems.</h2><p>Interested in a PhD, Masters or Honours project with me at QUT?</p><p>Please get in touch only if your existing studies or research demonstrate a strong mathematical background and a clear interest in cryptography, computational number theory or quantum algorithms.</p><p>'+a('mailto:'+profile['email']+'?subject=Research%20supervision%20enquiry','Get in touch')+'</p><p class="topic-list">Post-quantum cryptography · Computational number theory · Quantum algorithms</p></section>'
  out+='<section class="section career-section" aria-labelledby="experience">'+heading('experience','Experience')+'<div class="career-list">'
  for job in data['career']:
   out+='<article class="career-item"><div class="career-date">'+e(job['dates'])+'</div><div class="career-content"><h3>'+a(job['url'],job['organisation'])+'</h3><p>'+e(job['role'])+'<br>'+e(job['location'])+'</p>'

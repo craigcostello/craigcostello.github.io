@@ -3,7 +3,7 @@
     "id": "media-001",
     "title": "IT leaders warn AI could erode vital technical skills",
     "detail": "Security Brief Australia, Channel Life",
-    "year": null,
+    "year": "2026",
     "original_text": "IT leaders warn AI could erode vital technical skills . Security Brief Australia , Channel Life .",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -38,7 +38,7 @@
     "id": "media-002",
     "title": "153 million driver licenses exposed on dark web",
     "detail": "ACS Information Age",
-    "year": null,
+    "year": "2026",
     "original_text": "153 million driver licenses exposed on dark web . ACS Information Age.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -65,7 +65,7 @@
     "id": "media-003",
     "title": "Women’s Cyber Underrepresentation Deepens as AI Grows",
     "detail": "Security Brief Australia, IT Brief Australia",
-    "year": null,
+    "year": "2026",
     "original_text": "Women’s Cyber Underrepresentation Deepens as AI Grows . Security Brief Australia , IT Brief Australia .",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -100,7 +100,7 @@
     "id": "media-004",
     "title": "Origin Energy probes alleged cyber incident over data.",
     "detail": "Security Brief Australia",
-    "year": null,
+    "year": "2026",
     "original_text": "Origin Energy probes alleged cyber incident over data. Security Brief Australia.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -127,7 +127,7 @@
     "id": "media-005",
     "title": "NSW nurse charged over alleged data breach",
     "detail": "ACS Information Age",
-    "year": null,
+    "year": "2026",
     "original_text": "NSW nurse charged over alleged data breach . ACS Information Age.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -154,7 +154,7 @@
     "id": "media-006",
     "title": "What the Origin Energy hack means for Australian consumers and businesses",
     "detail": "Cyber Daily",
-    "year": null,
+    "year": "2026",
     "original_text": "What the Origin Energy hack means for Australian consumers and businesses . Cyber Daily.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -181,7 +181,7 @@
     "id": "media-007",
     "title": "Origin Energy Investigating Possible Data Breach",
     "detail": "ACS Information Age",
-    "year": null,
+    "year": "2026",
     "original_text": "Origin Energy Investigating Possible Data Breach . ACS Information Age.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -326,7 +326,7 @@
     "id": "media-012",
     "title": "Quantum computers are coming to break our codes faster than anyone expected",
     "detail": "The Conversation, Australia",
-    "year": null,
+    "year": "2026",
     "original_text": "Quantum computers are coming to break our codes faster than anyone expected . The Conversation, Australia.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -420,7 +420,7 @@
     "id": "media-015",
     "title": "The quantum threat to your data and our race to stop it",
     "detail": "QUT Real Focus",
-    "year": null,
+    "year": "2025",
     "original_text": "The quantum threat to your data and our race to stop it . QUT Real Focus.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -472,7 +472,7 @@
     "id": "media-017",
     "title": "The industry speaks: Scam Awareness Week 2025",
     "detail": "Cyber Daily",
-    "year": null,
+    "year": "2025",
     "original_text": "The industry speaks: Scam Awareness Week 2025 . Cyber Daily.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -499,7 +499,7 @@
     "id": "media-018",
     "title": "AI Isn’t Coming For Jobs",
     "detail": "Education Today",
-    "year": null,
+    "year": "2025",
     "original_text": "AI Isn’t Coming For Jobs . Education Today.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -526,7 +526,7 @@
     "id": "media-019",
     "title": "Qantas breach sparks national push for stronger cyber resilience",
     "detail": "Security Brief Australia",
-    "year": null,
+    "year": "2025",
     "original_text": "Qantas breach sparks national push for stronger cyber resilience . Security Brief Australia.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -553,7 +553,7 @@
     "id": "media-020",
     "title": "Future workforce needs curious minds",
     "detail": "Education Matters Magazine",
-    "year": null,
+    "year": "2025",
     "original_text": "Future workforce needs curious minds . Education Matters Magazine.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -588,7 +588,7 @@
     "id": "media-021",
     "title": "Quantum computers threaten to break online security in minutes",
     "detail": "Cosmos Magazine",
-    "year": null,
+    "year": "2025",
     "original_text": "Quantum computers threaten to break online security in minutes . Cosmos Magazine.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -603,13 +603,15 @@
     "outlet": "Cosmos Magazine",
     "format": "article",
     "category": "print",
-    "logo_key": "cosmos"
+    "logo_key": "cosmos",
+    "year_source_url": "https://www.linkedin.com/posts/qut-science-it-maths_quantumcomputers-qut-activity-7303247970362171392-xXN9",
+    "year_note": "Year inferred from QUT’s 6 March 2025 announcement describing this as a recent Cosmos article; the original publisher page is unavailable."
   },
   {
     "id": "media-022",
     "title": "IT Workers Will Thrive in the AI Era",
     "detail": "Education Today",
-    "year": null,
+    "year": "2025",
     "original_text": "IT Workers Will Thrive in the AI Era . Education Today.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
