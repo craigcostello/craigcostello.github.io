@@ -1,9 +1,12 @@
 # GitHub Pages launch plan
 
 Updated 18 October 2026. Source is imported into
-`craigcostello/craigcostello.github.io`. GitHub Pages builds the independent preview
-at https://craigcostello.github.io/ from `main`. Squarespace, custom-domain DNS,
-and subscriptions remain unchanged. There is no CNAME file or Pages custom domain.
+`craigcostello/craigcostello.github.io`. GitHub Pages builds from `main`, with
+`www.craigcostello.com.au` configured as its custom domain. On 18 October 2026,
+the apex A records and the `www` CNAME were switched to GitHub Pages. Nameservers,
+the Squarespace verification record and subscriptions remain unchanged.
+Squarespace stays active during the transition. The full pre-cutover DNS export
+is retained in `migration/dns-before-live-2026-10-18.zone` for rollback.
 
 ## Repository and transfer
 
@@ -33,13 +36,13 @@ repository tools. Authentication should use GitHub's normal UI/credential flow,
 not credentials pasted into chat.
 
 `Check website changes` builds and validates pushes/PRs and retains a downloadable
-review artifact. `Publish website preview to GitHub Pages` builds the exact
+review artifact. `Publish website to GitHub Pages` builds the exact
 committed source, checks it, and deploys `dist/` on pushes to `main` or manual runs.
 Pages uses GitHub Actions as the publishing source. Review https://craigcostello.github.io/
 before the domain switch. Confirm mobile/desktop layout, search, section expansion,
 the headshot and all local downloads, including legacy `/s/` links.
 
-## Current public DNS snapshot
+## DNS before the cutover
 
 The read-only snapshot in `content/dns-before-migration.json` was fetched on
 18 October 2026. Re-query immediately before any cutover; these are observations,
@@ -57,10 +60,12 @@ currently bills the domain or which account administers it. Confirm registrar,
 DNS-login access, renewal and any email/subdomain dependencies. No public MX/TXT
 answer is not proof that no related service exists; preserve the authenticated zone.
 
-## Proposed domain switch — prepared, not applied
+## Domain switch applied on 18 October 2026
 
-Use `www.craigcostello.com.au` as the preferred name, retaining the existing domain.
-A registrar transfer is optional; changing website hosting does not require one.
+The preferred name is `www.craigcostello.com.au`, retaining the existing domain.
+The website records below were applied through Webcentral's Client Area DNS.
+No registrar transfer, nameserver change or subscription cancellation was made.
+The following procedure is retained as a reference for future changes.
 
 1. Save the full DNS-zone export and verify domain renewal will continue.
 2. Verify domain ownership in GitHub using the TXT record GitHub supplies. Its

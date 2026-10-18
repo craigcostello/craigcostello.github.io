@@ -1,6 +1,6 @@
-name: Publish website preview to GitHub Pages
+name: Publish website to GitHub Pages
 
-# The github.io preview is independent of Squarespace and the custom domain.
+# The custom domain is configured in the repository's GitHub Pages settings.
 on:
   push:
     branches: [main]

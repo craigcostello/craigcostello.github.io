@@ -1,0 +1,10 @@
+4me38yxbtj22564rcwn9.craigcostello.com.au.	3600	IN	CNAME	verify.squarespace.com.
+craigcostello.com.au.	3600	IN	A	198.185.159.145
+craigcostello.com.au.	3600	IN	A	198.49.23.145
+craigcostello.com.au.	3600	IN	A	198.185.159.144
+craigcostello.com.au.	3600	IN	A	198.49.23.144
+craigcostello.com.au.	3600	IN	NS	ns2.netregistry.net.
+craigcostello.com.au.	3600	IN	NS	ns3.netregistry.net.
+craigcostello.com.au.	3600	IN	NS	ns1.netregistry.net.
+craigcostello.com.au.	3600	IN	SOA	ns1.netregistry.net. dmain.netregistry.net. 2021010621 86400 7200 3600000 172800
+www.craigcostello.com.au.	3600	IN	CNAME	ext-cust.squarespace.com.

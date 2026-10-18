@@ -2,8 +2,9 @@
 
 Single-page academic website. Updated 18 October 2026.
 
-Preview: https://craigcostello.github.io/
-The existing Squarespace website and custom-domain DNS are unchanged.
+Website: https://www.craigcostello.com.au/
+GitHub Pages serves the custom domain; `craigcostello.github.io` redirects to it.
+Squarespace remains active as a rollback option during the transition.
 
 ## Build and check
 
@@ -60,10 +61,10 @@ Craig's review.
 ## GitHub and launch
 
 `check.yml` validates every push/PR and retains a review build. `pages.yml` builds,
-checks and publishes the GitHub Pages preview on pushes to `main`; it can also be
-run manually. Pages uses GitHub Actions as its publishing source. There is no
-CNAME file or custom-domain change. See `MIGRATION.md` for the preview setup,
-proposed future DNS changes and rollback.
+checks and publishes the website on pushes to `main`; it can also be run manually.
+Pages uses GitHub Actions as its publishing source, with `www.craigcostello.com.au`
+configured in repository Pages settings. A CNAME file is not required by this
+workflow. See `MIGRATION.md` for the domain configuration and rollback.
 
 Private CV files are not public assets. The source package includes content and
 public assets, plus acquisition repair evidence, without the private CV archive.
