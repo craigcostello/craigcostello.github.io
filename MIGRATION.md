@@ -2,11 +2,19 @@
 
 Updated 18 October 2026. Source is imported into
 `craigcostello/craigcostello.github.io`. GitHub Pages builds from `main`, with
-`www.craigcostello.com.au` configured as its custom domain. On 18 October 2026,
+`craigcostello.com.au` configured as its custom domain. On 18 October 2026,
 the apex A records and the `www` CNAME were switched to GitHub Pages. Nameservers,
 the Squarespace verification record and subscriptions remain unchanged.
 Squarespace stays active during the transition. The full pre-cutover DNS export
 is retained in `migration/dns-before-live-2026-10-18.zone` for rollback.
+
+Launch verification: the new homepage is serving at https://craigcostello.com.au/
+with an approved certificate and HTTPS enforcement enabled. The legacy slide
+download and section redirects were checked. The `www` record is configured,
+but its certificate is still pending while old DNS answers remain cached.
+Keep Squarespace active until `https://www.craigcostello.com.au/` also passes TLS
+validation and redirects to the canonical address. A launch screenshot is retained
+in `migration/launch-verification.jpg`.
 
 ## Repository and transfer
 
@@ -62,7 +70,7 @@ answer is not proof that no related service exists; preserve the authenticated z
 
 ## Domain switch applied on 18 October 2026
 
-The preferred name is `www.craigcostello.com.au`, retaining the existing domain.
+The preferred name is `craigcostello.com.au`, with `www` redirecting to it.
 The website records below were applied through Webcentral's Client Area DNS.
 No registrar transfer, nameserver change or subscription cancellation was made.
 The following procedure is retained as a reference for future changes.
@@ -70,7 +78,7 @@ The following procedure is retained as a reference for future changes.
 1. Save the full DNS-zone export and verify domain renewal will continue.
 2. Verify domain ownership in GitHub using the TXT record GitHub supplies. Its
    account-specific token cannot be prepared without the account UI.
-3. Add `www.craigcostello.com.au` in repository Settings → Pages before changing
+3. Add `craigcostello.com.au` in repository Settings → Pages before changing
    its traffic-routing DNS. With a custom Actions publishing workflow, GitHub
    does not require a repository CNAME file.
 4. Replace only the apex website A records and `www` CNAME as below, following

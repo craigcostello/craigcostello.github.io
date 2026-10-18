@@ -2,8 +2,9 @@
 
 Single-page academic website. Updated 18 October 2026.
 
-Website: https://www.craigcostello.com.au/
+Website: https://craigcostello.com.au/
 GitHub Pages serves the custom domain; `craigcostello.github.io` redirects to it.
+The `www` redirect is configured, with its certificate pending DNS propagation.
 Squarespace remains active as a rollback option during the transition.
 
 ## Build and check
@@ -62,7 +63,7 @@ Craig's review.
 
 `check.yml` validates every push/PR and retains a review build. `pages.yml` builds,
 checks and publishes the website on pushes to `main`; it can also be run manually.
-Pages uses GitHub Actions as its publishing source, with `www.craigcostello.com.au`
+Pages uses GitHub Actions as its publishing source, with `craigcostello.com.au`
 configured in repository Pages settings. A CNAME file is not required by this
 workflow. See `MIGRATION.md` for the domain configuration and rollback.
 
