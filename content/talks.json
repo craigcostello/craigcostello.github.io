@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "talks-001",
+    "title": "The promise of isogeny-based cryptography",
+    "detail": "Workshop on Elliptic Curves, Sydney. October 2, 2026",
+    "year": "2026",
+    "original_text": "The promise of isogeny-based cryptography . Workshop on Elliptic Curves, Sydney. October 2, 2026.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "The promise of isogeny-based cryptography",
+        "original_url": "https://www.craigcostello.com.au/s/isogeny-promise.pdf",
+        "local_url": "/slides/isogeny-promise.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/c45d73d79b5f01a9.jpg",
+    "preview_source": {
+      "local_url": "/slides/isogeny-promise.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-002",
+    "title": "An introduction to hyperelliptic curve cryptography",
+    "detail": "Workshop on Elliptic Curves, Sydney. October 1, 2026",
+    "year": "2026",
+    "original_text": "An introduction to hyperelliptic curve cryptography . Workshop on Elliptic Curves, Sydney. October 1, 2026.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "An introduction to hyperelliptic curve cryptography",
+        "original_url": "https://www.craigcostello.com.au/s/02-Hyperelliptic-Curves-October-1.pdf",
+        "local_url": "/slides/02-Hyperelliptic-Curves-October-1.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/9c33523244f47bf9.jpg",
+    "preview_source": {
+      "local_url": "/slides/02-Hyperelliptic-Curves-October-1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-003",
+    "title": "An introduction to elliptic curve cryptography",
+    "detail": "Workshop on Elliptic Curves, Sydney, October 1, 2026",
+    "year": "2026",
+    "original_text": "An introduction to elliptic curve cryptography . Workshop on Elliptic Curves, Sydney, October 1, 2026.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "An introduction to elliptic curve cryptography",
+        "original_url": "https://www.craigcostello.com.au/s/01-Elliptic-Curves-October-1.pdf",
+        "local_url": "/slides/01-Elliptic-Curves-October-1.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/114c1d74b4d28c27.jpg",
+    "preview_source": {
+      "local_url": "/slides/01-Elliptic-Curves-October-1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-004",
+    "title": "The Future of Encryption: Higher Education and Preparing for the Post-Quantum Shift",
+    "detail": "AHECS Cybersecurity Summit, September 15, 2026",
+    "year": "2026",
+    "original_text": "The Future of Encryption: Higher Education and Preparing for the Post-Quantum Shift . AHECS Cybersecurity Summit, September 15, 2026.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "The Future of Encryption: Higher Education and Preparing for the Post-Quantum Shift",
+        "original_url": "https://www.craigcostello.com.au/s/The_Future_of_Encryption_AHECS_2026.pdf",
+        "local_url": "/slides/The_Future_of_Encryption_AHECS_2026.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/65dd21ad0a07aeea.jpg",
+    "preview_source": {
+      "local_url": "/slides/The_Future_of_Encryption_AHECS_2026.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-005",
+    "title": "The Future of Encryption: Preparing Governement for the Post-Quantum Shift",
+    "detail": "QLD Government Cybersecurity Showcase, September 10, 2026",
+    "year": "2026",
+    "original_text": "The Future of Encryption: Preparing Governement for the Post-Quantum Shift . QLD Government Cybersecurity Showcase, September 10, 2026.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "The Future of Encryption: Preparing Governement for the Post-Quantum Shift",
+        "original_url": "https://www.craigcostello.com.au/s/The_Future_of_Encryption.pdf",
+        "local_url": "/slides/The_Future_of_Encryption.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/eb10c77cb3b83921.jpg",
+    "preview_source": {
+      "local_url": "/slides/The_Future_of_Encryption.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-006",
+    "title": "Quantum-Safe Queensland: A practical post-quantum cryptography roadmap to 2030 and beyond",
+    "detail": "BrisSec, April 29, 2026",
+    "year": "2026",
+    "original_text": "Quantum-Safe Queensland: A practical post-quantum cryptography roadmap to 2030 and beyond . BrisSec, April 29, 2026.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Quantum-Safe Queensland: A practical post-quantum cryptography roadmap to 2030 and beyond",
+        "original_url": "https://www.craigcostello.com.au/s/QuantumSafeQLD.pdf",
+        "local_url": "/slides/QuantumSafeQLD.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/056717887fc3989c.jpg",
+    "preview_source": {
+      "local_url": "/slides/QuantumSafeQLD.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-007",
+    "title": "Safeguarding the future with post-quantum cryptography",
+    "detail": "Keynote at ACS Tech Summit, Brisbane, May 2025",
+    "year": "2025",
+    "original_text": "Safeguarding the future with post-quantum cryptography . Keynote at ACS Tech Summit, Brisbane, May 2025.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Safeguarding the future with post-quantum cryptography",
+        "original_url": "https://www.craigcostello.com.au/s/ACS_talk_2025.pdf",
+        "local_url": "/slides/ACS_talk_2025.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/4727251ba3c84949.jpg",
+    "preview_source": {
+      "local_url": "/slides/ACS_talk_2025.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-008",
+    "title": "On cycles of pairing-friendly abelian varieties",
+    "detail": "CRYPTO 2024. August 2024",
+    "year": "2024",
+    "original_text": "On cycles of pairing-friendly abelian varieties . CRYPTO 2024. August 2024. Video .",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "On cycles of pairing-friendly abelian varieties",
+        "original_url": "https://www.craigcostello.com.au/s/crypto-2024.pdf",
+        "local_url": "/slides/crypto-2024.pdf",
+        "asset_type": "PDF"
+      },
+      {
+        "text": "Video",
+        "original_url": "https://youtu.be/pSMU7fm6EIY?si=y9vL0U1_XkQoFh4l&t=2425"
+      }
+    ],
+    "preview_image": "/images/talks/08826a19c207d465.jpg",
+    "preview_source": {
+      "local_url": "/slides/crypto-2024.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-009",
+    "title": "Finding twin smooth integers",
+    "detail": "RMIT Cybersecurity Seminar. March 29, 2023",
+    "year": "2023",
+    "original_text": "Finding twin smooth integers . RMIT Cybersecurity Seminar. March 29, 2023. Video .",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Finding twin smooth integers",
+        "original_url": "https://www.craigcostello.com.au/s/RMIT.pdf",
+        "local_url": "/slides/RMIT.pdf",
+        "asset_type": "PDF"
+      },
+      {
+        "text": "Video",
+        "original_url": "https://www.youtube.com/watch?v=62sS7-jvkzc&t=629s"
+      }
+    ],
+    "preview_image": "/images/talks/45c0230ab22131da.jpg",
+    "preview_source": {
+      "local_url": "/slides/RMIT.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-010",
+    "title": "Post-quantum key exchange from supersingular isogenies",
+    "detail": "IPAM Summer School on Post-Quantum Cryptography, UCLA. July 26, 2022",
+    "year": "2022",
+    "original_text": "Post-quantum key exchange from supersingular isogenies . IPAM Summer School on Post-Quantum Cryptography, UCLA. July 26, 2022. Video .",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Post-quantum key exchange from supersingular isogenies",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/62e2f3140618d940376662fe/1659040535574/UCLA.pdf",
+        "local_url": "/slides/UCLA.pdf",
+        "asset_type": "PDF"
+      },
+      {
+        "text": "Video",
+        "original_url": "https://www.youtube.com/watch?index=8&list=PLHyI3Fbmv0SdibCMJcJFBZPARwec6fPnQ&v=lp5I8eeBkEQ"
+      }
+    ],
+    "preview_image": "/images/talks/73410ab2b0185443.jpg",
+    "preview_source": {
+      "local_url": "/slides/UCLA.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-011",
+    "title": "The Case for SIKE: A Decade of the Supersingular Isogeny Problem",
+    "detail": "2nd International Conference on Security and Privacy, November 17, 2021",
+    "year": "2021",
+    "original_text": "The Case for SIKE: A Decade of the Supersingular Isogeny Problem . 2nd International Conference on Security and Privacy, November 17, 2021.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "The Case for SIKE: A Decade of the Supersingular Isogeny Problem",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/6195113972e64d081ad878fa/1637159226485/ICSP-talk.pdf",
+        "local_url": "/slides/ICSP-talk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/00c9e6cc4188a6ae.jpg",
+    "preview_source": {
+      "local_url": "/slides/ICSP-talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-012",
+    "title": "Why Hyperelliptic?",
+    "detail": "Isogeny-based cryptography school, September 9, 2021",
+    "year": "2021",
+    "original_text": "Why Hyperelliptic? Isogeny-based cryptography school, September 9, 2021.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Why Hyperelliptic?",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/613a808737a850442ea82bfb/1631223959564/why-hyperelliptic.pdf",
+        "local_url": "/slides/why-hyperelliptic.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/5fa4ea1e2fc1c4c3.jpg",
+    "preview_source": {
+      "local_url": "/slides/why-hyperelliptic.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-013",
+    "title": "Finding twin smooth integers for isogeny-based cryptography",
+    "detail": "University College London InfoSec Seminar, Feb 11, 2021",
+    "year": "2021",
+    "original_text": "Finding twin smooth integers for isogeny-based cryptography . University College London InfoSec Seminar, Feb 11, 2021. Video .",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Finding twin smooth integers for isogeny-based cryptography",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/602eda29374c38656a39a586/1613683247335/UCL-talk.pdf",
+        "local_url": "/slides/UCL-talk.pdf",
+        "asset_type": "PDF"
+      },
+      {
+        "text": "Video",
+        "original_url": "https://www.youtube.com/watch?v=oapXoLvQQ4g"
+      }
+    ],
+    "preview_image": "/images/talks/cc6cf41fc5c1c7e9.jpg",
+    "preview_source": {
+      "local_url": "/slides/UCL-talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-014",
+    "title": "The Case for SIKE: A Decade of the Supersingular Isogeny Problem",
+    "detail": "NIST 3rd PQC Standardization Conference, June 2021",
+    "year": "2021",
+    "original_text": "The Case for SIKE: A Decade of the Supersingular Isogeny Problem . NIST 3rd PQC Standardization Conference, June 2021. Video .",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "The Case for SIKE: A Decade of the Supersingular Isogeny Problem",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/60c7ad51568e8e2f7e668faf/1623698769624/NIST.pdf",
+        "local_url": "/slides/NIST.pdf",
+        "asset_type": "PDF"
+      },
+      {
+        "text": "Video",
+        "original_url": "https://www.nist.gov/video/third-pqc-standardization-conference-session-viii-security-part-ii-and-candidate-updates"
+      }
+    ],
+    "preview_image": "/images/talks/75bd5041cd08842c.jpg",
+    "preview_source": {
+      "local_url": "/slides/NIST.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-015",
+    "title": "B-SIDH: supersingular isogeny Diffie-Hellman using twisted torsion",
+    "detail": "ASIACRYPT 2020, Dec 2020",
+    "year": "2020",
+    "original_text": "B-SIDH: supersingular isogeny Diffie-Hellman using twisted torsion . ASIACRYPT 2020, Dec 2020. Video .",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "B-SIDH: supersingular isogeny Diffie-Hellman using twisted torsion",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff370b5ac5ecf06b6819e07/1609789622281/2020-AsiaCrypt2020talk.pdf",
+        "local_url": "/slides/2020-AsiaCrypt2020talk.pdf",
+        "asset_type": "PDF"
+      },
+      {
+        "text": "Video",
+        "original_url": "https://www.youtube.com/watch?v=bjkLZ8Lg3Jg"
+      }
+    ],
+    "preview_image": "/images/talks/8768e21d3fdfa03a.jpg",
+    "preview_source": {
+      "local_url": "/slides/2020-AsiaCrypt2020talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-016",
+    "title": "The supersingular isogeny problem in genus 2 and beyond",
+    "detail": "PQCrypto2020, September 2020",
+    "year": "2020",
+    "original_text": "The supersingular isogeny problem in genus 2 and beyond . PQCrypto2020, September 2020. Video .",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "The supersingular isogeny problem in genus 2 and beyond",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37086143c0d28f26c224e/1609789576630/2020-PQCrypto2020talk.pdf",
+        "local_url": "/slides/2020-PQCrypto2020talk.pdf",
+        "asset_type": "PDF"
+      },
+      {
+        "text": "Video",
+        "original_url": "https://www.youtube.com/watch?v=0B08wdbUlgg"
+      }
+    ],
+    "preview_image": "/images/talks/ab5e6131054d793b.jpg",
+    "preview_source": {
+      "local_url": "/slides/2020-PQCrypto2020talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-017",
+    "title": "Post-quantum cryptography: supersingular isogenies for beginners",
+    "detail": "Microsoft Research Webinar, May 2020",
+    "year": "2020",
+    "original_text": "Post-quantum cryptography: supersingular isogenies for beginners . Microsoft Research Webinar, May 2020. Video .",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Post-quantum cryptography: supersingular isogenies for beginners",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff375f1f218a25ea6a7c043/1609790963192/2020-webinar.pdf",
+        "local_url": "/slides/2020-webinar.pdf",
+        "asset_type": "PDF"
+      },
+      {
+        "text": "Video",
+        "original_url": "https://www.youtube.com/watch?t=705s&v=9B7jq7Mgiwc"
+      }
+    ],
+    "preview_image": "/images/talks/99e27057c74ada37.jpg",
+    "preview_source": {
+      "local_url": "/slides/2020-webinar.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-018",
+    "title": "The state of the art in supersingular isogenies: the SIKE protocol and its cryptanalysis",
+    "detail": "Invited talk at Selected Areas of Cryptography (SAC), Waterloo, Canada – August 16, 2019",
+    "year": "2019",
+    "original_text": "The state of the art in supersingular isogenies: the SIKE protocol and its cryptanalysis . Invited talk at Selected Areas of Cryptography (SAC), Waterloo, Canada – August 16, 2019.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "The state of the art in supersingular isogenies: the SIKE protocol and its cryptanalysis",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3765bdac66e1e16365f6f/1609791070484/2019-SACinvitedtalk.pdf",
+        "local_url": "/slides/2019-SACinvitedtalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/c185e3ee029decb5.jpg",
+    "preview_source": {
+      "local_url": "/slides/2019-SACinvitedtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-019",
+    "title": "Isogeny-based cryptography: a gentle introduction to post-quantum ECC",
+    "detail": "Tutorial at SAC Summer School, Waterloo, Canada – August 12, 2019",
+    "year": "2019",
+    "original_text": "Isogeny-based cryptography: a gentle introduction to post-quantum ECC . Tutorial at SAC Summer School, Waterloo, Canada – August 12, 2019.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Isogeny-based cryptography: a gentle introduction to post-quantum ECC",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3769246517e2c74004171/1609791131165/2019-SACtutorial2.pdf",
+        "local_url": "/slides/2019-SACtutorial2.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/5528ef6c6d000730.jpg",
+    "preview_source": {
+      "local_url": "/slides/2019-SACtutorial2.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-020",
+    "title": "A gentle introduction to elliptic curve cryptography",
+    "detail": "Tutorial at SAC Summer School, Waterloo, Canada – August 12, 2019",
+    "year": "2019",
+    "original_text": "A gentle introduction to elliptic curve cryptography . Tutorial at SAC Summer School, Waterloo, Canada – August 12, 2019.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "A gentle introduction to elliptic curve cryptography",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff376bc0db4f45ccb096682/1609791167623/2019-SACtutorial1.pdf",
+        "local_url": "/slides/2019-SACtutorial1.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/bc0d64070445fde5.jpg",
+    "preview_source": {
+      "local_url": "/slides/2019-SACtutorial1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-021",
+    "title": "SIKE Round 2",
+    "detail": "Talk at Oxford Post-Quantum Cryptography Workshop – March 20, 2019",
+    "year": "2019",
+    "original_text": "SIKE Round 2 . Talk at Oxford Post-Quantum Cryptography Workshop – March 20, 2019.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "SIKE Round 2",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff376e889898a72c7c819db/1609791211682/2019-OxfordPQCtalk.pdf",
+        "local_url": "/slides/2019-OxfordPQCtalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/2112150d2c3e07d5.jpg",
+    "preview_source": {
+      "local_url": "/slides/2019-OxfordPQCtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-022",
+    "title": "Classical cryptanalysis of supersingular isogenies",
+    "detail": "Talk at ASEC 2018, Adelaide, Australia – Dec 10, 2018",
+    "year": "2018",
+    "original_text": "Classical cryptanalysis of supersingular isogenies . Talk at ASEC 2018, Adelaide, Australia – Dec 10, 2018.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Classical cryptanalysis of supersingular isogenies",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3770e10ee9f5922d0da8b/1609791251641/2018-ASEC2018talk.pdf",
+        "local_url": "/slides/2018-ASEC2018talk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/a46f1917cf5693bc.jpg",
+    "preview_source": {
+      "local_url": "/slides/2018-ASEC2018talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-023",
+    "title": "Computing supersingular isogenies on Kummer surfaces",
+    "detail": "Talk at ASIACRYPT 2018, Brisbane, Australia – Dec 6, 2018",
+    "year": "2018",
+    "original_text": "Computing supersingular isogenies on Kummer surfaces . Talk at ASIACRYPT 2018, Brisbane, Australia – Dec 6, 2018.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Computing supersingular isogenies on Kummer surfaces",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff377390e058f15c9d87d53/1609791291841/2018-AsiaCrypt2018talk.pdf",
+        "local_url": "/slides/2018-AsiaCrypt2018talk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/1f729b2e764afd29.jpg",
+    "preview_source": {
+      "local_url": "/slides/2018-AsiaCrypt2018talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-024",
+    "title": "Supersingular isogenies in cryptography",
+    "detail": "Talk at Summer School on Real World Crypto and Privacy, Šibenik, Croatia – June 15, 2018",
+    "year": "2018",
+    "original_text": "Supersingular isogenies in cryptography . Talk at Summer School on Real World Crypto and Privacy, Šibenik, Croatia – June 15, 2018.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Supersingular isogenies in cryptography",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff377740493bd2827816c74/1609791349766/2018-Croatiainvitedtalk.pdf",
+        "local_url": "/slides/2018-Croatiainvitedtalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/c6ff8a30ecfc2bfc.jpg",
+    "preview_source": {
+      "local_url": "/slides/2018-Croatiainvitedtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-025",
+    "title": "A gentle introduction to elliptic curve cryptography",
+    "detail": "Tutorial at Summer School on Real World Crypto and Privacy, Šibenik, Croatia – June 11, 2018",
+    "year": "2018",
+    "original_text": "A gentle introduction to elliptic curve cryptography . Tutorial at Summer School on Real World Crypto and Privacy, Šibenik, Croatia – June 11, 2018.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "A gentle introduction to elliptic curve cryptography",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff377be5de1995715f34e1d/1609791423728/2018-Croatiatutorial1.pdf",
+        "local_url": "/slides/2018-Croatiatutorial1.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/9a0370c079896dce.jpg",
+    "preview_source": {
+      "local_url": "/slides/2018-Croatiatutorial1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-026",
+    "title": "A simple and compact algorithm for SIDH with arbitrary degree isogenies",
+    "detail": "Talk at ASIACRYPT 2017, Hong Kong, China- Dec 5, 2017",
+    "year": "2017",
+    "original_text": "A simple and compact algorithm for SIDH with arbitrary degree isogenies . Talk at ASIACRYPT 2017, Hong Kong, China- Dec 5, 2017. Video .",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "A simple and compact algorithm for SIDH with arbitrary degree isogenies",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff377e1673a147fcc02381c/1609791459501/2017-AsiaCrypt2017talk.pdf",
+        "local_url": "/slides/2017-AsiaCrypt2017talk.pdf",
+        "asset_type": "PDF"
+      },
+      {
+        "text": "Video",
+        "original_url": "https://www.youtube.com/watch?index=42&list=PLeeS-3Ml-rpoBNIHmSOZOnOFx2Ecko7xv&v=OhciT_js2bI"
+      }
+    ],
+    "preview_image": "/images/talks/db591dac17c83841.jpg",
+    "preview_source": {
+      "local_url": "/slides/2017-AsiaCrypt2017talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-027",
+    "title": "Supersingular Isogeny Key Encapsulation",
+    "detail": "Invited talk at ECC2017, Nijmegen, Netherlands – Nov 14, 2017",
+    "year": "2017",
+    "original_text": "Supersingular Isogeny Key Encapsulation . Invited talk at ECC2017, Nijmegen, Netherlands – Nov 14, 2017.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Supersingular Isogeny Key Encapsulation",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff378bdac5ecf06b683b05b/1609791681245/2017-ECCinvitedtalk.pdf",
+        "local_url": "/slides/2017-ECCinvitedtalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/b8d1d5f5725ba134.jpg",
+    "preview_source": {
+      "local_url": "/slides/2017-ECCinvitedtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-028",
+    "title": "An introduction to supersingular isogeny-based cryptography",
+    "detail": "Talk at ECC2017, Nijmegen, Netherlands – Nov 10, 2017",
+    "year": "2017",
+    "original_text": "An introduction to supersingular isogeny-based cryptography . Talk at ECC2017, Nijmegen, Netherlands – Nov 10, 2017.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "An introduction to supersingular isogeny-based cryptography",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff378f99d513670e3bfdaa2/1609791740380/2017-ECCtutorial.pdf",
+        "local_url": "/slides/2017-ECCtutorial.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/4ab6917f5a2b9f34.jpg",
+    "preview_source": {
+      "local_url": "/slides/2017-ECCtutorial.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-029",
+    "title": "An introduction to supersingular isogeny-based cryptography",
+    "detail": "Talk at Summer School on Real World Crypto and Privacy, Šibenik, Croatia – June 8, 2017",
+    "year": "2017",
+    "original_text": "An introduction to supersingular isogeny-based cryptography . Talk at Summer School on Real World Crypto and Privacy, Šibenik, Croatia – June 8, 2017.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "An introduction to supersingular isogeny-based cryptography",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37925634c4829a8f785ef/1609791784561/2017-Croatiainvitedtalk.pdf",
+        "local_url": "/slides/2017-Croatiainvitedtalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/39439397940143a4.jpg",
+    "preview_source": {
+      "local_url": "/slides/2017-Croatiainvitedtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-030",
+    "title": "A gentle introduction to elliptic curve cryptography",
+    "detail": "Tutorial at Summer School on Real World Crypto and Privacy, Šibenik, Croatia – June 5, 2017",
+    "year": "2017",
+    "original_text": "A gentle introduction to elliptic curve cryptography . Tutorial at Summer School on Real World Crypto and Privacy, Šibenik, Croatia – June 5, 2017.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "A gentle introduction to elliptic curve cryptography",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3795717af6f5d19988575/1609791833880/2017-Croatiatutorial1.pdf",
+        "local_url": "/slides/2017-Croatiatutorial1.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/c60b168f3540faf9.jpg",
+    "preview_source": {
+      "local_url": "/slides/2017-Croatiatutorial1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-031",
+    "title": "Post-quantum key exchange for the Internet based on lattices",
+    "detail": "Seminar at MSR India, Bangalore, India – Dec 21, 2016",
+    "year": "2016",
+    "original_text": "Post-quantum key exchange for the Internet based on lattices . Seminar at MSR India, Bangalore, India – Dec 21, 2016.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Post-quantum key exchange for the Internet based on lattices",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff379814688fd421b7a05b2/1609791877407/2016-MSRIndiainvitedtalk.pdf",
+        "local_url": "/slides/2016-MSRIndiainvitedtalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/b839c9a9d3c19e77.jpg",
+    "preview_source": {
+      "local_url": "/slides/2016-MSRIndiainvitedtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-032",
+    "title": "Practical post-quantum key exchange from supersingular isogenies",
+    "detail": "Invited talk at SPACE2016, University of Hyderabad, Hyderabad, India – Dec 18, 2016",
+    "year": "2016",
+    "original_text": "Practical post-quantum key exchange from supersingular isogenies . Invited talk at SPACE2016, University of Hyderabad, Hyderabad, India – Dec 18, 2016.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Practical post-quantum key exchange from supersingular isogenies",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff379b22fb5c129f272ff68/1609791925429/2016-SPACE2016invited.pdf",
+        "local_url": "/slides/2016-SPACE2016invited.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/acb4f6f71ccf9a75.jpg",
+    "preview_source": {
+      "local_url": "/slides/2016-SPACE2016invited.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-033",
+    "title": "A gentle introduction to isogeny-based cryptography",
+    "detail": "Tutorial talk at SPACE2016, University of Hyderabad, Hyderabad, India – Dec 15, 2016",
+    "year": "2016",
+    "original_text": "A gentle introduction to isogeny-based cryptography . Tutorial talk at SPACE2016, University of Hyderabad, Hyderabad, India – Dec 15, 2016.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "A gentle introduction to isogeny-based cryptography",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff379e7673a147fcc02c742/1609791977778/2016-SPACE2016tutorial2.pdf",
+        "local_url": "/slides/2016-SPACE2016tutorial2.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/1ca5ed8710d85746.jpg",
+    "preview_source": {
+      "local_url": "/slides/2016-SPACE2016tutorial2.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-034",
+    "title": "A gentle introduction to elliptic curve cryptography",
+    "detail": "Tutorial talk at SPACE2016, University of Hyderabad, Hyderabad, India – Dec 15, 2016",
+    "year": "2016",
+    "original_text": "A gentle introduction to elliptic curve cryptography . Tutorial talk at SPACE2016, University of Hyderabad, Hyderabad, India – Dec 15, 2016.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "A gentle introduction to elliptic curve cryptography",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37a14232e037c66ec0543/1609792023408/2016-SPACE2016tutorial1.pdf",
+        "local_url": "/slides/2016-SPACE2016tutorial1.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/d5bf0e896369070a.jpg",
+    "preview_source": {
+      "local_url": "/slides/2016-SPACE2016tutorial1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-035",
+    "title": "Post-quantum key exchange for the Internet based on lattices.",
+    "detail": "Algebra seminar at University of Auckland, Auckland, New Zealand – Nov 16, 2016",
+    "year": "2016",
+    "original_text": "Post-quantum key exchange for the Internet based on lattices. Algebra seminar at University of Auckland, Auckland, New Zealand – Nov 16, 2016. Recording .",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Post-quantum key exchange for the Internet based on lattices.",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37a3f17af6f5d1998c02d/1609792066582/2016-Aucklandinvitedtalk.pdf",
+        "local_url": "/slides/2016-Aucklandinvitedtalk.pdf",
+        "asset_type": "PDF"
+      },
+      {
+        "text": "Recording",
+        "original_url": "https://www.math.auckland.ac.nz/~sgal018/CraigTalk.mp4"
+      }
+    ],
+    "preview_image": "/images/talks/ad8442454c2710b3.jpg",
+    "preview_source": {
+      "local_url": "/slides/2016-Aucklandinvitedtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-036",
+    "title": "Efficient algorithms for supersingular isogeny Diffie-Hellman",
+    "detail": "Talk at CRYPTO2016, Santa Barbara, USA – Aug 17, 2016",
+    "year": "2016",
+    "original_text": "Efficient algorithms for supersingular isogeny Diffie-Hellman . Talk at CRYPTO2016, Santa Barbara, USA – Aug 17, 2016. Video .",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Efficient algorithms for supersingular isogeny Diffie-Hellman",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37a954688fd421b7a3806/1609792150482/2016-Crypto2016talk.pdf",
+        "local_url": "/slides/2016-Crypto2016talk.pdf",
+        "asset_type": "PDF"
+      },
+      {
+        "text": "Video",
+        "original_url": "https://www.youtube.com/watch?feature=youtu.be&v=GNDxO8YcLwI"
+      }
+    ],
+    "preview_image": "/images/talks/43240d63b6f668c8.jpg",
+    "preview_source": {
+      "local_url": "/slides/2016-Crypto2016talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-037",
+    "title": "Efficient algorithms for supersingular isogeny Diffie-Hellman",
+    "detail": "Talk at Radboud University, Nijmegen, Netherlands – May 4, 2016",
+    "year": "2016",
+    "original_text": "Efficient algorithms for supersingular isogeny Diffie-Hellman . Talk at Radboud University, Nijmegen, Netherlands – May 4, 2016.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Efficient algorithms for supersingular isogeny Diffie-Hellman",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37ad80e058f15c9d96b5a/1609792217166/2016-Nijmegeninvitedtalk.pdf",
+        "local_url": "/slides/2016-Nijmegeninvitedtalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/8045d488321b41af.jpg",
+    "preview_source": {
+      "local_url": "/slides/2016-Nijmegeninvitedtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-038",
+    "title": "Post-quantum key exchange from ideal lattices",
+    "detail": "Talk at QUT Maths Seminars series, Brisbane, Australia – Apr 1, 2016",
+    "year": "2016",
+    "original_text": "Post-quantum key exchange from ideal lattices . Talk at QUT Maths Seminars series, Brisbane, Australia – Apr 1, 2016.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Post-quantum key exchange from ideal lattices",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37b0a18d44937a9410a8d/1609792269404/2016-QUTmathseminartalk2.PDF",
+        "local_url": "/slides/2016-QUTmathseminartalk2.PDF",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/882ae2bf5eb6034c.jpg",
+    "preview_source": {
+      "local_url": "/slides/2016-QUTmathseminartalk2.PDF",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-039",
+    "title": "An introduction to elliptic curve cryptography",
+    "detail": "Talk at QUT Maths Seminars series, Brisbane, Australia – Mar 18, 2016",
+    "year": "2016",
+    "original_text": "An introduction to elliptic curve cryptography . Talk at QUT Maths Seminars series, Brisbane, Australia – Mar 18, 2016.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "An introduction to elliptic curve cryptography",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37b370db4f45ccb0a75bb/1609792315276/2016-QUTmathseminar1talk.PDF",
+        "local_url": "/slides/2016-QUTmathseminar1talk.PDF",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/221f4a2d106890c4.jpg",
+    "preview_source": {
+      "local_url": "/slides/2016-QUTmathseminar1talk.PDF",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-040",
+    "title": "FourQ: four-dimensional decompositions on a Q-curve over the Mersenne prime",
+    "detail": "Talk at AsiaCrypt2015, Auckland, New Zealand- Nov 30, 2015",
+    "year": "2015",
+    "original_text": "FourQ: four-dimensional decompositions on a Q-curve over the Mersenne prime . Talk at AsiaCrypt2015, Auckland, New Zealand- Nov 30, 2015.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "FourQ: four-dimensional decompositions on a Q-curve over the Mersenne prime",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37b6e0493bd28278240c2/1609792368670/2015-AsiaCrypt2015talk.pdf",
+        "local_url": "/slides/2015-AsiaCrypt2015talk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/96a28033f7762e07.jpg",
+    "preview_source": {
+      "local_url": "/slides/2015-AsiaCrypt2015talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-041",
+    "title": "FourQ: four-dimensional decompositions on a Q-curve",
+    "detail": "Talk at NIST Workshop on Elliptic Curve Cryptography Standards, Gaithersburg, Maryland, USA – June 12, 2015",
+    "year": "2015",
+    "original_text": "FourQ: four-dimensional decompositions on a Q-curve . Talk at NIST Workshop on Elliptic Curve Cryptography Standards, Gaithersburg, Maryland, USA – June 12, 2015. Video .",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "FourQ: four-dimensional decompositions on a Q-curve",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37b9b0493bd2827824d87/1609792412586/2015-NISTFourQtalk.pdf",
+        "local_url": "/slides/2015-NISTFourQtalk.pdf",
+        "asset_type": "PDF"
+      },
+      {
+        "text": "Video",
+        "original_url": "https://www.youtube.com/watch?v=ctvJJtbhym4"
+      }
+    ],
+    "preview_image": "/images/talks/29b0cf4b40adf984.jpg",
+    "preview_source": {
+      "local_url": "/slides/2015-NISTFourQtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-042",
+    "title": "A brief discussion on selecting new elliptic curves",
+    "detail": "Talk at NIST Workshop on Elliptic Curve Cryptography Standards, Gaithersburg, Maryland, USA – June 11, 2015",
+    "year": "2015",
+    "original_text": "A brief discussion on selecting new elliptic curves . Talk at NIST Workshop on Elliptic Curve Cryptography Standards, Gaithersburg, Maryland, USA – June 11, 2015. Video .",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "A brief discussion on selecting new elliptic curves",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37bf8f218a25ea6a93b9f/1609792504090/2015-NIST-position.pdf",
+        "local_url": "/slides/2015-NIST-position.pdf",
+        "asset_type": "PDF"
+      },
+      {
+        "text": "Video",
+        "original_url": "https://www.youtube.com/watch?t=26622&v=yS84gO-sy6k"
+      }
+    ],
+    "preview_image": "/images/talks/3b3aaae87a5674c1.jpg",
+    "preview_source": {
+      "local_url": "/slides/2015-NIST-position.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-043",
+    "title": "Genus 2 curves in cryptography: successes and challenges",
+    "detail": "Talk at AMS Special Session on Arithmetic Geometry, University of Nevada, Las Vegas, USA – April 20, 2015",
+    "year": "2015",
+    "original_text": "Genus 2 curves in cryptography: successes and challenges . Talk at AMS Special Session on Arithmetic Geometry, University of Nevada, Las Vegas, USA – April 20, 2015.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Genus 2 curves in cryptography: successes and challenges",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37d4f634c4829a8f86e74/1609792847062/2015-AMS2015talk.pdf",
+        "local_url": "/slides/2015-AMS2015talk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/08757e87215864dd.jpg",
+    "preview_source": {
+      "local_url": "/slides/2015-AMS2015talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-044",
+    "title": "Post-quantum key exchange from the ring learning with errors problem",
+    "detail": "NIST Workshop on Cybersecurity in a Post-Quantum World, Gaithersburg, Maryland, USA – April 3, 2015",
+    "year": "2015",
+    "original_text": "Post-quantum key exchange from the ring learning with errors problem . NIST Workshop on Cybersecurity in a Post-Quantum World, Gaithersburg, Maryland, USA – April 3, 2015.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Post-quantum key exchange from the ring learning with errors problem",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37d78a6a0ae63d64bd58b/1609792890122/2015-NISTPQCtalk.pdf",
+        "local_url": "/slides/2015-NISTPQCtalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/e6e8454ce194c5e6.jpg",
+    "preview_source": {
+      "local_url": "/slides/2015-NISTPQCtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-045",
+    "title": "Post-quantum key exchange from the ring learning with errors problem",
+    "detail": "MSR Annual Privacy Workshop, Redmond, USA – October 29, 2014",
+    "year": "2014",
+    "original_text": "Post-quantum key exchange from the ring learning with errors problem . MSR Annual Privacy Workshop, Redmond, USA – October 29, 2014.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Post-quantum key exchange from the ring learning with errors problem",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37d78a6a0ae63d64bd58b/1609792890122/2015-NISTPQCtalk.pdf",
+        "local_url": "/slides/2015-NISTPQCtalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/e6e8454ce194c5e6.jpg",
+    "preview_source": {
+      "local_url": "/slides/2015-NISTPQCtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-046",
+    "title": "Selecting Elliptic Curves for Cryptography: an Efficiency and Security Analysis",
+    "detail": "Invited talk at ECC2014, Ramanujan Auditorium, Chennai, India – October 9, 2014",
+    "year": "2014",
+    "original_text": "Selecting Elliptic Curves for Cryptography: an Efficiency and Security Analysis . Invited talk at ECC2014, Ramanujan Auditorium, Chennai, India – October 9, 2014.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Selecting Elliptic Curves for Cryptography: an Efficiency and Security Analysis",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37dd9b6dc0c1e611b2f72/1609792987751/2014-ECCInvitedtalk.pdf",
+        "local_url": "/slides/2014-ECCInvitedtalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/71eefd687c2daf7c.jpg",
+    "preview_source": {
+      "local_url": "/slides/2014-ECCInvitedtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-047",
+    "title": "A quick quiz on cricket and crypto",
+    "detail": "Rump session talk at ECC2014, Ramanujan Auditorium, Chennai, India – October 8, 2014",
+    "year": "2014",
+    "original_text": "A quick quiz on cricket and crypto . Rump session talk at ECC2014, Ramanujan Auditorium, Chennai, India – October 8, 2014.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "A quick quiz on cricket and crypto",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37e3e232e037c66ecf6a0/1609793087072/2014-ECCRumptalk.pdf",
+        "local_url": "/slides/2014-ECCRumptalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/bd710d627cbba39d.jpg",
+    "preview_source": {
+      "local_url": "/slides/2014-ECCRumptalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-048",
+    "title": "Deterministic Generation of Elliptic Curves (a.k.a. “NUMS” Curves)",
+    "detail": "Talk at ITEF-90, Toronto, Canada – July 23, 2014",
+    "year": "2014",
+    "original_text": "Deterministic Generation of Elliptic Curves (a.k.a. “NUMS” Curves) . Talk at ITEF-90, Toronto, Canada – July 23, 2014.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Deterministic Generation of Elliptic Curves (a.k.a. “NUMS” Curves)",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37e9adac66e1e1638719b/1609793178899/2014-CFRGtalk.pdf",
+        "local_url": "/slides/2014-CFRGtalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/41115b2b4a392974.jpg",
+    "preview_source": {
+      "local_url": "/slides/2014-CFRGtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-049",
+    "title": "Faster Compact Diffie-Hellman: Endomorphisms on the x-line",
+    "detail": "EuroCrypt2014, Scandic Hotel, Copenhagen, Denmark – May 12, 2014",
+    "year": "2014",
+    "original_text": "Faster Compact Diffie-Hellman: Endomorphisms on the x-line . EuroCrypt2014, Scandic Hotel, Copenhagen, Denmark – May 12, 2014.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Faster Compact Diffie-Hellman: Endomorphisms on the x-line",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37ec1232e037c66ed169a/1609793218886/2014-EuroCrypt2014talk.pdf",
+        "local_url": "/slides/2014-EuroCrypt2014talk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/cb3b7d04e51b82f3.jpg",
+    "preview_source": {
+      "local_url": "/slides/2014-EuroCrypt2014talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-050",
+    "title": "Faster Compact Diffie-Hellman: Endomorphisms on the x-line",
+    "detail": "MSR Annual Privacy Workshop, Redmond, USA – October 25, 2013",
+    "year": "2013",
+    "original_text": "Faster Compact Diffie-Hellman: Endomorphisms on the x-line . MSR Annual Privacy Workshop, Redmond, USA – October 25, 2013.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Faster Compact Diffie-Hellman: Endomorphisms on the x-line",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37ef2e293bc1fe2b4487e/1609793267917/2013-MSRPrivacyTalk.pdf",
+        "local_url": "/slides/2013-MSRPrivacyTalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/340e7817e3d7cf3f.jpg",
+    "preview_source": {
+      "local_url": "/slides/2013-MSRPrivacyTalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-051",
+    "title": "The State-of-the-Art in Hyperelliptic Curve Cryptography",
+    "detail": "Workshop on Curves and Applications, Calgary, Canada – August 19, 2013",
+    "year": "2013",
+    "original_text": "The State-of-the-Art in Hyperelliptic Curve Cryptography . Workshop on Curves and Applications, Calgary, Canada – August 19, 2013.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "The State-of-the-Art in Hyperelliptic Curve Cryptography",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37f21b6dc0c1e611b7edf/1609793316622/2013-AlgCurves2013talk.pdf",
+        "local_url": "/slides/2013-AlgCurves2013talk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/bafd123a9a03bc58.jpg",
+    "preview_source": {
+      "local_url": "/slides/2013-AlgCurves2013talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-052",
+    "title": "Exponentiating in Pairing Groups",
+    "detail": "SAC2013, Simon Fraser University, Vancouver, Canada – August 16, 2013",
+    "year": "2013",
+    "original_text": "Exponentiating in Pairing Groups . SAC2013, Simon Fraser University, Vancouver, Canada – August 16, 2013.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Exponentiating in Pairing Groups",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37f4e0db4f45ccb0b7127/1609793358681/2013-SAC2013talk.pdf",
+        "local_url": "/slides/2013-SAC2013talk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/3057de7aa4b5cb76.jpg",
+    "preview_source": {
+      "local_url": "/slides/2013-SAC2013talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-053",
+    "title": "Faster compact Diffie-Hellman",
+    "detail": "Lunchtime talk at Microsoft Research, Redmond, USA – June 19, 2013",
+    "year": "2013",
+    "original_text": "Faster compact Diffie-Hellman . Lunchtime talk at Microsoft Research, Redmond, USA – June 19, 2013.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Faster compact Diffie-Hellman",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37f7de293bc1fe2b47398/1609793405599/2013-MSRlunchtalk.pdf",
+        "local_url": "/slides/2013-MSRlunchtalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/b9476b6356c43f57.jpg",
+    "preview_source": {
+      "local_url": "/slides/2013-MSRlunchtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-054",
+    "title": "Fast Cryptography in Genus 2",
+    "detail": "EuroCrypt2013, Caravel Hotel, Athens, Greece, May 27, 2013",
+    "year": "2013",
+    "original_text": "Fast Cryptography in Genus 2 . EuroCrypt2013, Caravel Hotel, Athens, Greece, May 27, 2013.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Fast Cryptography in Genus 2",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37fa1461d8d43a33c41c5/1609793442035/2013-EuroCrypt2013talk.pdf",
+        "local_url": "/slides/2013-EuroCrypt2013talk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/96408d96ef368ca2.jpg",
+    "preview_source": {
+      "local_url": "/slides/2013-EuroCrypt2013talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-055",
+    "title": "5 slides on hyperelliptic curve cryptography",
+    "detail": "Crypto/Security forum, Microsoft Research, Redmond, USA, March 8, 2013",
+    "year": "2013",
+    "original_text": "5 slides on hyperelliptic curve cryptography . Crypto/Security forum, Microsoft Research, Redmond, USA, March 8, 2013.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "5 slides on hyperelliptic curve cryptography",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37fd4461d8d43a33c543e/1609793493064/2013-CryptoSecForumtalk.pdf",
+        "local_url": "/slides/2013-CryptoSecForumtalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/2ef8539609818bf7.jpg",
+    "preview_source": {
+      "local_url": "/slides/2013-CryptoSecForumtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-056",
+    "title": "Efficient arithmetic on Jacobians of genus 2 curves",
+    "detail": "Joint Mathematics Meetings (JMM), San Diego, USA, January 12, 2013",
+    "year": "2013",
+    "original_text": "Efficient arithmetic on Jacobians of genus 2 curves . Joint Mathematics Meetings (JMM), San Diego, USA, January 12, 2013.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Efficient arithmetic on Jacobians of genus 2 curves",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3802217af6f5d199a452c/1609793571650/2013-JMMtalk.pdf",
+        "local_url": "/slides/2013-JMMtalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/1ece23eaf1a06c3e.jpg",
+    "preview_source": {
+      "local_url": "/slides/2013-JMMtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-057",
+    "title": "Efficient pairing computation at the 192-bit and 256-bit security levels",
+    "detail": "Invited talk, ECC2012, Queretaro, Mexico, October 30, 2012",
+    "year": "2012",
+    "original_text": "Efficient pairing computation at the 192-bit and 256-bit security levels . Invited talk, ECC2012, Queretaro, Mexico, October 30, 2012.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Efficient pairing computation at the 192-bit and 256-bit security levels",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff38051461d8d43a33c6c11/1609793621934/2012-ECCinvitedtalk.pdf",
+        "local_url": "/slides/2012-ECCinvitedtalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/a00b3426fe418527.jpg",
+    "preview_source": {
+      "local_url": "/slides/2012-ECCinvitedtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-058",
+    "title": "A tribute to Pierrick – Parts 1 and 2… and a tribute to Culture Club",
+    "detail": "Rump session talk, ECC2012, Queretaro, Mexico, October 29, 2012",
+    "year": "2012",
+    "original_text": "A tribute to Pierrick – Parts 1 and 2… and a tribute to Culture Club . Rump session talk, ECC2012, Queretaro, Mexico, October 29, 2012.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "A tribute to Pierrick – Parts 1 and 2… and a tribute to Culture Club",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff380960e058f15c9dacce8/1609793688076/2012-ECCrumptalk.pdf",
+        "local_url": "/slides/2012-ECCrumptalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/e1f0f362499d5a3a.jpg",
+    "preview_source": {
+      "local_url": "/slides/2012-ECCrumptalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-059",
+    "title": "An introduction to elliptic curves and the computation of cryptographic pairings",
+    "detail": "Introductory course on elliptic curve cryptography, ECC2012, Queretaro, Mexico, October 28, 2012",
+    "year": "2012",
+    "original_text": "An introduction to elliptic curves and the computation of cryptographic pairings . Introductory course on elliptic curve cryptography, ECC2012 , Queretaro, Mexico, October 28, 2012.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "An introduction to elliptic curves and the computation of cryptographic pairings",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff380c19d513670e3c1c8f2/1609793733298/2012-ECCworkshoptalk.pdf",
+        "local_url": "/slides/2012-ECCworkshoptalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/504f20e521df6707.jpg",
+    "preview_source": {
+      "local_url": "/slides/2012-ECCworkshoptalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-060",
+    "title": "Fast implementations in genus 2",
+    "detail": "Ei/Psi seminar in Utrecht, the Netherlands – October 21, 2012",
+    "year": "2012",
+    "original_text": "Fast implementations in genus 2 . Ei/Psi seminar in Utrecht, the Netherlands – October 21, 2012.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Fast implementations in genus 2",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff380e9cb208745b7494739/1609793769833/2012-EiPsitalk.pdf",
+        "local_url": "/slides/2012-EiPsitalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/edc4d814b2e9c076.jpg",
+    "preview_source": {
+      "local_url": "/slides/2012-EiPsitalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-061",
+    "title": "Fast crypto in genus 2",
+    "detail": "End of internship talk at Microsoft Research, Redmond, USA – August 14, 2012",
+    "year": "2012",
+    "original_text": "Fast crypto in genus 2 . End of internship talk at Microsoft Research, Redmond, USA – August 14, 2012.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Fast crypto in genus 2",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff38114461d8d43a33ca6f8/1609793813961/2012-EOItalk.pdf",
+        "local_url": "/slides/2012-EOItalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/c5c86e3e8ce3f72c.jpg",
+    "preview_source": {
+      "local_url": "/slides/2012-EOItalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-062",
+    "title": "Pairings for Cryptographers",
+    "detail": "Talk at Microsoft Research, Redmond, USA – Aug 15, 2012",
+    "year": "2012",
+    "original_text": "Pairings for Cryptographers . Talk at Microsoft Research, Redmond, USA – Aug 15, 2012.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Pairings for Cryptographers",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3813be293bc1fe2b4e596/1609793855027/2012-MSRLunchtalk-2.pdf",
+        "local_url": "/slides/2012-MSRLunchtalk-2.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/990debd5cda63b11.jpg",
+    "preview_source": {
+      "local_url": "/slides/2012-MSRLunchtalk-2.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-063",
+    "title": "Finding optimal elliptic curves for high-security pairings",
+    "detail": "Talk at Microsoft Research, Redmond, USA – June 21, 20",
+    "year": null,
+    "original_text": "Finding optimal elliptic curves for high-security pairings . Talk at Microsoft Research, Redmond, USA – June 21, 20.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Finding optimal elliptic curves for high-security pairings",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff38165143c0d28f27073de/1609793894946/2012-MSRLunchtalk.pdf",
+        "local_url": "/slides/2012-MSRLunchtalk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/e49af59a8170f399.jpg",
+    "preview_source": {
+      "local_url": "/slides/2012-MSRLunchtalk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-064",
+    "title": "Fast formulas for computing cryptographic pairings",
+    "detail": "Phd final (defense) seminar, Queensland University of Technology, Australia, May 21, 2012",
+    "year": "2012",
+    "original_text": "Fast formulas for computing cryptographic pairings . Phd final (defense) seminar, Queensland University of Technology, Australia, May 21, 2012.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Fast formulas for computing cryptographic pairings",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3818e289de731b31cf32c/1609793943615/2011-PhDFinalSeminar.pdf",
+        "local_url": "/slides/2011-PhDFinalSeminar.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/ca00cc38e506b5ad.jpg",
+    "preview_source": {
+      "local_url": "/slides/2011-PhDFinalSeminar.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-065",
+    "title": "Attractive subfamilies of BLS curves for implementing high-security pairings",
+    "detail": "IndoCrypt2011, Ramanujan Auditorium, Institute of Mathematical Sciences, Chennai, India, December 13, 2011",
+    "year": "2011",
+    "original_text": "Attractive subfamilies of BLS curves for implementing high-security pairings . IndoCrypt2011, Ramanujan Auditorium, Institute of Mathematical Sciences, Chennai, India, December 13, 2011.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Attractive subfamilies of BLS curves for implementing high-security pairings",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff381e7143c0d28f2708d21/1609794026555/2011-IndoCrypt2011talk.pdf",
+        "local_url": "/slides/2011-IndoCrypt2011talk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/f7202a3d44f1164a.jpg",
+    "preview_source": {
+      "local_url": "/slides/2011-IndoCrypt2011talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-066",
+    "title": "Computing cryptographic pairings – the state of the art",
+    "detail": "Seminar at University of California, Irvine, November 2, 2010",
+    "year": "2010",
+    "original_text": "Computing cryptographic pairings – the state of the art . Seminar at University of California, Irvine, November 2, 2010.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Computing cryptographic pairings – the state of the art",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3821517af6f5d199ac518/1609794071440/2010-UCI2010talk.pdf",
+        "local_url": "/slides/2010-UCI2010talk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/de16e0afbeada2c0.jpg",
+    "preview_source": {
+      "local_url": "/slides/2010-UCI2010talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-067",
+    "title": "Fixed argument pairings",
+    "detail": "LatinCrypt2010, Baroque Hall, Puebla, Mexico, August 9, 2010",
+    "year": "2010",
+    "original_text": "Fixed argument pairings . LatinCrypt2010, Baroque Hall, Puebla, Mexico, August 9, 2010.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Fixed argument pairings",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff382408268c96dbbaacb9b/1609794113170/2010-LatinCrypt2010talk.pdf",
+        "local_url": "/slides/2010-LatinCrypt2010talk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/247414dd47ad77a8.jpg",
+    "preview_source": {
+      "local_url": "/slides/2010-LatinCrypt2010talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-068",
+    "title": "An introduction to computing cryptographic pairings",
+    "detail": "Invited talk at Izmir Yasar University, Izmir, Turkey, July 1, 2010",
+    "year": "2010",
+    "original_text": "An introduction to computing cryptographic pairings . Invited talk at Izmir Yasar University, Izmir, Turkey, July 1, 2010.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "An introduction to computing cryptographic pairings",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff382662547c5214a4de1fe/1609794150757/2010-Izmir2010talk.pdf",
+        "local_url": "/slides/2010-Izmir2010talk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/790648ae5a7cd5a5.jpg",
+    "preview_source": {
+      "local_url": "/slides/2010-Izmir2010talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-069",
+    "title": "Delaying mismatched field multiplications in pairing computation",
+    "detail": "WAIFI 2010, Istanbul, Turkey, June, 2010",
+    "year": "2010",
+    "original_text": "Delaying mismatched field multiplications in pairing computation . WAIFI 2010, Istanbul, Turkey, June, 2010.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Delaying mismatched field multiplications in pairing computation",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff38291cb208745b749a7a5/1609794194224/2010-WAIFI2010talk.pdf",
+        "local_url": "/slides/2010-WAIFI2010talk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/31e5aab1285c363f.jpg",
+    "preview_source": {
+      "local_url": "/slides/2010-WAIFI2010talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-070",
+    "title": "Faster pairing computations on curves with high-degree twists",
+    "detail": "PKC2010, Ecole Normale Superieure, Paris, France, May 27, 2010",
+    "year": "2010",
+    "original_text": "Faster pairing computations on curves with high-degree twists . PKC2010, Ecole Normale Superieure, Paris, France, May 27, 2010. Video .",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Faster pairing computations on curves with high-degree twists",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff382b9232e037c66ee0af6/1609794234039/2010-PKC2010talk.pdf",
+        "local_url": "/slides/2010-PKC2010talk.pdf",
+        "asset_type": "PDF"
+      },
+      {
+        "text": "Video",
+        "original_url": "https://www.youtube.com/watch?v=XfKMUVas4Z0"
+      }
+    ],
+    "preview_image": "/images/talks/381b67d4b52c984b.jpg",
+    "preview_source": {
+      "local_url": "/slides/2010-PKC2010talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-071",
+    "title": "Avoiding full extension field arithmetic in pairing computations",
+    "detail": "Africacrypt2010, Stellenbosch Institute for Advanced Studies, Stellenbosch, South Africa, May 4, 2010",
+    "year": "2010",
+    "original_text": "Avoiding full extension field arithmetic in pairing computations . Africacrypt2010, Stellenbosch Institute for Advanced Studies, Stellenbosch, South Africa, May 4, 2010.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Avoiding full extension field arithmetic in pairing computations",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff383dda6a0ae63d64d7176/1609794525357/2010-AfricaCrypt2010talk.pdf",
+        "local_url": "/slides/2010-AfricaCrypt2010talk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/749c10b760b36f1a.jpg",
+    "preview_source": {
+      "local_url": "/slides/2010-AfricaCrypt2010talk.pdf",
+      "page": 1
+    }
+  },
+  {
+    "id": "talks-072",
+    "title": "Faster pairings on special Weierstrass curves",
+    "detail": "Pairing2009, Stanford University, Palo Alto, USA, August 14, 2009",
+    "year": "2009",
+    "original_text": "Faster pairings on special Weierstrass curves . Pairing2009, Stanford University, Palo Alto, USA, August 14, 2009.",
+    "source_page": "https://www.craigcostello.com.au/talks",
+    "links": [
+      {
+        "text": "Faster pairings on special Weierstrass curves",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3840f8268c96dbbab4012/1609794575577/2009-Pairing2009talk.pdf",
+        "local_url": "/slides/2009-Pairing2009talk.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/fc62d1a3e2020e2f.jpg",
+    "preview_source": {
+      "local_url": "/slides/2009-Pairing2009talk.pdf",
+      "page": 1
+    }
+  }
+]

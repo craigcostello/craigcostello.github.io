@@ -1,0 +1,38 @@
+{
+  "mathquest": {
+    "source_url": "https://mathquest.edu.au/wp-content/uploads/2026/02/Logo.png",
+    "available": true,
+    "local_url": "/images/logos/mathquest.png"
+  },
+  "qut": {
+    "source_url": "https://www.qut.edu.au/qut-logo-og-200.jpg",
+    "status": "200\nimage/jpeg",
+    "available": true,
+    "local_url": "/images/logos/qut.jpg"
+  },
+  "register": {
+    "source_url": "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+    "status": "200\nimage/svg+xml",
+    "available": true,
+    "local_url": "/images/logos/register.svg"
+  },
+  "australian": {
+    "source_url": "https://static.wixstatic.com/media/63a68f_f00dfa71f73e4495829dc84101f8140a~mv2.jpg",
+    "source_page": "https://www.ncjwa.org.au/news/media",
+    "available": true,
+    "local_url": "/images/logos/australian.jpg",
+    "sha256": "0e9211dbbb70f41e62cb6e2b290aca49d1d816dea11340a740d2f63219447ce6"
+  },
+  "cosmos": {
+    "source_url": "https://i1.sndcdn.com/avatars-000132691713-pi7t11-t1080x1080.jpg",
+    "source_page": "https://soundcloud.com/cosmos-magazine",
+    "available": true,
+    "local_url": "/images/logos/cosmos.jpg",
+    "sha256": "fddba593f2032b30ae192c6c13d2210a9a0094cb07c34bd114f636fdc4f9acb5"
+  },
+  "mit": {
+    "source_url": "https://www.technologyreview.com/",
+    "local_url": "/images/logos/mit-technology-review.svg",
+    "available": true
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "New interview or article title",
+  "detail": "Publisher or podcast name",
+  "outlet": "Publisher or podcast name",
+  "year": "2027",
+  "format": "article",
+  "links": [{"text": "Original", "original_url": "https://example.com/replace-with-the-real-item"}]
+}

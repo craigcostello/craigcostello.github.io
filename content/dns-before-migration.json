@@ -1,0 +1,317 @@
+{
+  "checked": "2026-10-18",
+  "read_only": true,
+  "queries": [
+    {
+      "name": "craigcostello.com.au",
+      "type": "A",
+      "resolver": "https://dns.google/resolve",
+      "response": {
+        "Status": 0,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "craigcostello.com.au.",
+            "type": 1
+          }
+        ],
+        "Answer": [
+          {
+            "name": "craigcostello.com.au.",
+            "type": 1,
+            "TTL": 3600,
+            "data": "198.185.159.145"
+          },
+          {
+            "name": "craigcostello.com.au.",
+            "type": 1,
+            "TTL": 3600,
+            "data": "198.49.23.145"
+          },
+          {
+            "name": "craigcostello.com.au.",
+            "type": 1,
+            "TTL": 3600,
+            "data": "198.49.23.144"
+          },
+          {
+            "name": "craigcostello.com.au.",
+            "type": 1,
+            "TTL": 3600,
+            "data": "198.185.159.144"
+          }
+        ],
+        "Comment": "Response from 76.223.26.245."
+      }
+    },
+    {
+      "name": "craigcostello.com.au",
+      "type": "AAAA",
+      "resolver": "https://dns.google/resolve",
+      "response": {
+        "Status": 0,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "craigcostello.com.au.",
+            "type": 28
+          }
+        ],
+        "Authority": [
+          {
+            "name": "craigcostello.com.au.",
+            "type": 6,
+            "TTL": 1800,
+            "data": "ns1.netregistry.net. dmain.netregistry.net. 2021010621 86400 7200 3600000 172800"
+          }
+        ],
+        "Comment": "Response from 75.2.118.134."
+      }
+    },
+    {
+      "name": "craigcostello.com.au",
+      "type": "CNAME",
+      "resolver": "https://dns.google/resolve",
+      "response": {
+        "Status": 0,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "craigcostello.com.au.",
+            "type": 5
+          }
+        ],
+        "Authority": [
+          {
+            "name": "craigcostello.com.au.",
+            "type": 6,
+            "TTL": 1800,
+            "data": "ns1.netregistry.net. dmain.netregistry.net. 2021010621 86400 7200 3600000 172800"
+          }
+        ],
+        "Comment": "Response from 75.2.118.134."
+      }
+    },
+    {
+      "name": "craigcostello.com.au",
+      "type": "MX",
+      "resolver": "https://dns.google/resolve",
+      "response": {
+        "Status": 0,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "craigcostello.com.au.",
+            "type": 15
+          }
+        ],
+        "Authority": [
+          {
+            "name": "craigcostello.com.au.",
+            "type": 6,
+            "TTL": 1800,
+            "data": "ns1.netregistry.net. dmain.netregistry.net. 2021010621 86400 7200 3600000 172800"
+          }
+        ],
+        "Comment": "Response from 75.2.118.134."
+      }
+    },
+    {
+      "name": "craigcostello.com.au",
+      "type": "TXT",
+      "resolver": "https://dns.google/resolve",
+      "response": {
+        "Status": 0,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "craigcostello.com.au.",
+            "type": 16
+          }
+        ],
+        "Authority": [
+          {
+            "name": "craigcostello.com.au.",
+            "type": 6,
+            "TTL": 1800,
+            "data": "ns1.netregistry.net. dmain.netregistry.net. 2021010621 86400 7200 3600000 172800"
+          }
+        ],
+        "Comment": "Response from 75.2.118.134."
+      }
+    },
+    {
+      "name": "craigcostello.com.au",
+      "type": "NS",
+      "resolver": "https://dns.google/resolve",
+      "response": {
+        "Status": 0,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "craigcostello.com.au.",
+            "type": 2
+          }
+        ],
+        "Answer": [
+          {
+            "name": "craigcostello.com.au.",
+            "type": 2,
+            "TTL": 3600,
+            "data": "ns2.netregistry.net."
+          },
+          {
+            "name": "craigcostello.com.au.",
+            "type": 2,
+            "TTL": 3600,
+            "data": "ns1.netregistry.net."
+          },
+          {
+            "name": "craigcostello.com.au.",
+            "type": 2,
+            "TTL": 3600,
+            "data": "ns3.netregistry.net."
+          }
+        ],
+        "Comment": "Response from 76.223.26.245."
+      }
+    },
+    {
+      "name": "www.craigcostello.com.au",
+      "type": "A",
+      "resolver": "https://dns.google/resolve",
+      "response": {
+        "Status": 0,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "www.craigcostello.com.au.",
+            "type": 1
+          }
+        ],
+        "Answer": [
+          {
+            "name": "www.craigcostello.com.au.",
+            "type": 5,
+            "TTL": 7,
+            "data": "ext-cust.squarespace.com."
+          },
+          {
+            "name": "ext-cust.squarespace.com.",
+            "type": 1,
+            "TTL": 136,
+            "data": "198.49.23.145"
+          },
+          {
+            "name": "ext-cust.squarespace.com.",
+            "type": 1,
+            "TTL": 136,
+            "data": "198.185.159.144"
+          },
+          {
+            "name": "ext-cust.squarespace.com.",
+            "type": 1,
+            "TTL": 136,
+            "data": "198.49.23.144"
+          },
+          {
+            "name": "ext-cust.squarespace.com.",
+            "type": 1,
+            "TTL": 136,
+            "data": "198.185.159.145"
+          }
+        ]
+      }
+    },
+    {
+      "name": "www.craigcostello.com.au",
+      "type": "AAAA",
+      "resolver": "https://dns.google/resolve",
+      "response": {
+        "Status": 0,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "www.craigcostello.com.au.",
+            "type": 28
+          }
+        ],
+        "Answer": [
+          {
+            "name": "www.craigcostello.com.au.",
+            "type": 5,
+            "TTL": 3600,
+            "data": "ext-cust.squarespace.com."
+          }
+        ],
+        "Authority": [
+          {
+            "name": "squarespace.com.",
+            "type": 6,
+            "TTL": 514,
+            "data": "dns1.p06.nsone.net. dns-admin.squarespace.com. 1663787404 3600 600 604800 900"
+          }
+        ]
+      }
+    },
+    {
+      "name": "www.craigcostello.com.au",
+      "type": "CNAME",
+      "resolver": "https://dns.google/resolve",
+      "response": {
+        "Status": 0,
+        "TC": false,
+        "RD": true,
+        "RA": true,
+        "AD": false,
+        "CD": false,
+        "Question": [
+          {
+            "name": "www.craigcostello.com.au.",
+            "type": 5
+          }
+        ],
+        "Answer": [
+          {
+            "name": "www.craigcostello.com.au.",
+            "type": 5,
+            "TTL": 1,
+            "data": "ext-cust.squarespace.com."
+          }
+        ]
+      }
+    }
+  ]
+}

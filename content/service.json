@@ -1,0 +1,125 @@
+{
+  "leadership": [
+    {
+      "conference": "CANS",
+      "year": 2026,
+      "role": "Program Co-Chair",
+      "url": "https://uow-ic2.github.io/cans2026/index.html"
+    }
+  ],
+  "committees": [
+    {
+      "conference": "EUROCRYPT",
+      "year": 2027,
+      "role": "Program committee"
+    },
+    {
+      "conference": "CRYPTO",
+      "year": 2027,
+      "role": "Program committee"
+    },
+    {
+      "conference": "ACISP",
+      "year": 2026,
+      "role": "Program committee"
+    },
+    {
+      "conference": "CRYPTO",
+      "year": 2025,
+      "role": "Area Chair"
+    },
+    {
+      "conference": "ACISP",
+      "year": 2025,
+      "role": "Program committee"
+    },
+    {
+      "conference": "CRYPTO",
+      "year": 2024,
+      "role": "Program committee"
+    },
+    {
+      "conference": "EUROCRYPT",
+      "year": 2024,
+      "role": "Program committee"
+    },
+    {
+      "conference": "ACISP",
+      "year": 2023,
+      "role": "Program committee"
+    },
+    {
+      "conference": "ASIACRYPT",
+      "year": 2022,
+      "role": "Program committee"
+    },
+    {
+      "conference": "PKC",
+      "year": 2022,
+      "role": "Program committee"
+    },
+    {
+      "conference": "CT-RSA",
+      "year": 2021,
+      "role": "Program committee"
+    },
+    {
+      "conference": "CRYPTO",
+      "year": 2020,
+      "role": "Program committee"
+    },
+    {
+      "conference": "SAC",
+      "year": 2019,
+      "role": "Program committee"
+    },
+    {
+      "conference": "PKC",
+      "year": 2019,
+      "role": "Program committee"
+    },
+    {
+      "conference": "WAIFI",
+      "year": 2018,
+      "role": "Program committee"
+    },
+    {
+      "conference": "FC",
+      "year": 2018,
+      "role": "Program committee"
+    },
+    {
+      "conference": "PST",
+      "year": 2016,
+      "role": "Program committee"
+    },
+    {
+      "conference": "ACISP",
+      "year": 2015,
+      "role": "Program committee"
+    },
+    {
+      "conference": "PST",
+      "year": 2015,
+      "role": "Program committee"
+    },
+    {
+      "conference": "SAC",
+      "year": 2013,
+      "role": "Program committee"
+    }
+  ],
+  "sources": [
+    "CV(1).zip / CV/cv.tex / Program Committees",
+    "Craig Costello: explicit 2027 additions and CANS role, 2026-10-17"
+  ],
+  "editorial": [
+    {
+      "publication": "IACR Communications in Cryptology",
+      "role": "Editorial board member",
+      "start_year": 2026,
+      "end_year": null,
+      "url": "https://cic.iacr.org/"
+    }
+  ]
+}

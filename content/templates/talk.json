@@ -1,0 +1,6 @@
+{
+  "title": "New talk title",
+  "detail": "Event, City. Month Day, 2027",
+  "year": "2027",
+  "links": [{"text": "Slides", "original_url": "https://www.craigcostello.com.au/slides/new-talk.pdf"}]
+}

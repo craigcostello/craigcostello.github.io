@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2026-10-18",
+    "reason": "Earlier retained PDF was incomplete and failed PDF parser validation; fresh public download has 28 pages and validates.",
+    "source_url": "https://www.craigcostello.com.au/s/2012-EiPsitalk.pdf",
+    "previous_size": 345600,
+    "previous_sha256": "06918dbd59b33f5c743ebf9b3adba2c70ef7d5646561fe9cc0aeeedfba2146ea",
+    "size_bytes": 547821,
+    "sha256": "edc4d814b2e9c07637f10fd7eb809ecf4444828e2549ecf293f80b369b3dad03",
+    "updated_paths": [
+      "/slides/2012-EiPsitalk.pdf"
+    ]
+  }
+]

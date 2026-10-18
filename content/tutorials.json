@@ -1,0 +1,48 @@
+[
+  {
+    "id": "tutorials-001",
+    "title": "Supersingular isogenies for beginners",
+    "detail": "",
+    "year": null,
+    "original_text": "Supersingular isogenies for beginners . Webinar .",
+    "source_page": "https://www.craigcostello.com.au/tutorials",
+    "links": [
+      {
+        "text": "Supersingular isogenies for beginners",
+        "original_url": "https://eprint.iacr.org/2019/1321.pdf"
+      },
+      {
+        "text": "Webinar",
+        "original_url": "https://www.youtube.com/watch?t=698s&v=9B7jq7Mgiwc"
+      }
+    ],
+    "preview_image": "/images/tutorials/isogenies-webinar.jpg",
+    "preview_caption": "Opening slide from the companion webinar",
+    "description": "An introduction to supersingular isogenies, with tutorial notes and a recorded webinar."
+  },
+  {
+    "id": "tutorials-002",
+    "title": "Pairings for beginners",
+    "detail": "",
+    "year": null,
+    "original_text": "Pairings for beginners . Magma scripts .",
+    "source_page": "https://www.craigcostello.com.au/tutorials",
+    "links": [
+      {
+        "text": "Pairings for beginners",
+        "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff394720493bd28278889c6/1609798774687/PairingsForBeginners.pdf",
+        "local_url": "/tutorials/PairingsForBeginners.pdf",
+        "asset_type": "PDF"
+      },
+      {
+        "text": "Magma scripts",
+        "original_url": "https://rose-clarinet-a4y5.squarespace.com/s/ScriptsNotes.zip",
+        "local_url": "/tutorials/ScriptsNotes.zip",
+        "asset_type": "ZIP"
+      }
+    ],
+    "preview_image": "/images/tutorials/pairings.jpg",
+    "preview_caption": "First page of the tutorial",
+    "description": "A gentle introduction to cryptographic pairings, with accompanying Magma scripts."
+  }
+]

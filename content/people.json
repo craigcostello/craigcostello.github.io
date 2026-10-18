@@ -1,0 +1,103 @@
+{
+  "current": [
+    {
+      "name": "Yintong Luo",
+      "institution": "QUT",
+      "role": "PhD · principal supervision",
+      "url": null
+    },
+    {
+      "name": "Subhradip Palchaudhuri",
+      "institution": "QUT",
+      "role": "PhD · principal supervision",
+      "url": null
+    },
+    {
+      "name": "Jackson Riding",
+      "institution": "QUT",
+      "role": "Honours · co-supervision",
+      "url": null
+    }
+  ],
+  "former": [
+    {
+      "name": "Gaurish Korpal",
+      "institution": "University of Arizona",
+      "role": "PhD · co-supervision while at Microsoft",
+      "url": "https://gkorpal.github.io/"
+    },
+    {
+      "name": "Jonathan Komada Eriksen",
+      "institution": "NTNU",
+      "role": "PhD · co-supervision while at Microsoft",
+      "url": "https://jonathke.github.io/"
+    }
+  ],
+  "interns": [
+    {
+      "name": "Gaurish Korpal",
+      "institution": "University of Arizona",
+      "years": "2024",
+      "url": "https://gkorpal.github.io/"
+    },
+    {
+      "name": "Maria Corte-Real Santos",
+      "institution": "University College London",
+      "years": "2023",
+      "url": "https://www.mariascrs.com/"
+    },
+    {
+      "name": "George Mitchell",
+      "institution": "City University of New York",
+      "years": "2022",
+      "url": "https://george-mitchell.github.io/"
+    },
+    {
+      "name": "Jia (Jane) Shi",
+      "institution": "University of Waterloo",
+      "years": "2021",
+      "url": "https://janeshi99.github.io/"
+    },
+    {
+      "name": "Fernando Virdia",
+      "institution": "Royal Holloway",
+      "years": "2018",
+      "url": "https://www.fundamental.domains/"
+    },
+    {
+      "name": "Joost Renes",
+      "institution": "Radboud University",
+      "years": "2016, 2017, 2018",
+      "url": "https://joostrenes.nl/"
+    },
+    {
+      "name": "Eric Crockett",
+      "institution": "Georgia Tech",
+      "years": "2015",
+      "url": null
+    },
+    {
+      "name": "Brian Chung",
+      "institution": "University of Cambridge",
+      "years": "2015",
+      "url": null
+    },
+    {
+      "name": "Andrea Miele",
+      "institution": "EPFL",
+      "years": "2013",
+      "url": null
+    },
+    {
+      "name": "Alyson Deines-Schartz",
+      "institution": "University of Washington",
+      "years": "2013",
+      "url": null
+    }
+  ],
+  "provenance": {
+    "supervision": "Craig Costello, direct instructions 2026-10-17; preferred over stale CV entries",
+    "interns": "CV(1).zip / CV/cv.tex, Microsoft Research 3-Month Summer Internships",
+    "links": "Personal homepages, cross-checked against official Microsoft Research past-interns page"
+  }
+}

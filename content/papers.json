@@ -1,0 +1,744 @@
+[
+  {
+    "id": "papers-001",
+    "title": "Cycles of supersingular elliptic curves for pairing-based proof systems",
+    "detail": "Craig Costello and Gaurish Korpal. IACR Communications in Cryptology, Vol 2, Issue 4, 2026",
+    "year": "2026",
+    "original_text": "Craig Costello and Gaurish Korpal. Cycles of supersingular elliptic curves for pairing-based proof systems . IACR Communications in Cryptology, Vol 2, Issue 4, 2026.",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Cycles of supersingular elliptic curves for pairing-based proof systems",
+        "original_url": "https://cic.iacr.org/p/2/4/29/pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-002",
+    "title": "On pairs of primes with small order reciprocity",
+    "detail": "Craig Costello and Gaurish Korpal. LuCaNT 2025, Contemporary Mathematics, American Mathematical Society, to appear",
+    "year": "2025",
+    "original_text": "Craig Costello and Gaurish Korpal. On pairs of primes with small order reciprocity . LuCaNT 2025, Contemporary Mathematics, American Mathematical Society, to appear.",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "On pairs of primes with small order reciprocity",
+        "original_url": "https://eprint.iacr.org/2025/150.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-003",
+    "title": "Efficient algorithms for the detection of (N,N)-splittings and endomorphisms",
+    "detail": "Maria Corte-Real Santos, Craig Costello, and Sam Frengley. Journal of Cryptology, vol. 39(2), 2026",
+    "year": "2026",
+    "original_text": "Maria Corte-Real Santos, Craig Costello, and Sam Frengley. Efficient algorithms for the detection of (N,N)-splittings and endomorphisms . Journal of Cryptology, 2025. Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Efficient algorithms for the detection of (N,N)-splittings and endomorphisms",
+        "original_url": "https://link.springer.com/article/10.1007/s00145-025-09552-7"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2025/147.pdf"
+      }
+    ],
+    "update_source": "Uploaded CV / pubs-type.tex"
+  },
+  {
+    "id": "papers-004",
+    "title": "Efficient (3,3)-isogenies on fast Kummer surfaces",
+    "detail": "Maria Corte-Real Santos, Craig Costello, and Benjamin Smith. ANTS XVI; Research in Number Theory, vol. 11, 2025",
+    "year": "2025",
+    "original_text": "Maria Corte-Real Santos, Craig Costello, and Benjamin Smith. Efficient (3,3)-isogenies on fast Kummer surfaces . ANTS XVI . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Efficient (3,3)-isogenies on fast Kummer surfaces",
+        "original_url": "https://link.springer.com/article/10.1007/s40993-024-00600-y"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2024/144.pdf"
+      }
+    ],
+    "update_source": "Uploaded CV / pubs-type.tex"
+  },
+  {
+    "id": "papers-005",
+    "title": "On cycles of pairing-friendly abelian varieties",
+    "detail": "Maria Corte-Real Santos, Craig Costello, and Michael Naehrig. CRYPTO 2024",
+    "year": "2024",
+    "original_text": "Maria Corte-Real Santos, Craig Costello, and Michael Naehrig. On cycles of pairing-friendly abelian varieties . CRYPTO 2024 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "On cycles of pairing-friendly abelian varieties",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-031-68400-5_7"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2024/869.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-006",
+    "title": "An algorithm for efficient detection of (N, N)-splittings and its application to the isogeny problem in dimension 2",
+    "detail": "Maria Corte-Real Santos, Craig Costello, and Sam Frengley. PKC2024. Best Paper Award",
+    "year": null,
+    "original_text": "Maria Corte-Real Santos, Craig Costello, and Sam Frengley. An algorithm for efficient detection of (N, N)-splittings and its application to the isogeny problem in dimension 2 . PKC2024 . Best Paper Award. Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "An algorithm for efficient detection of (N, N)-splittings and its application to the isogeny problem in dimension 2",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-031-57725-3_6"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2022/1736.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-007",
+    "title": "Cryptographic Smooth Neighbors",
+    "detail": "Giacomo Bruno, Maria Corte-Real Santos, Craig Costello, Jonathan Komada Eriksen, Michael Meyer, Michael Naehrig, and Bruno Sterner. ASIACRYPT 2023",
+    "year": "2023",
+    "original_text": "Giacomo Bruno, Maria Corte-Real Santos, Craig Costello, Jonathan Komada Eriksen, Michael Meyer, Michael Naehrig, and Bruno Sterner. Cryptographic Smooth Neighbors . ASIACRYPT 2023 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Cryptographic Smooth Neighbors",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-981-99-8739-9_7"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2022/1439.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-008",
+    "title": "Accelerating the Delfs-Galbraith algorithm with fast subfield root detection",
+    "detail": "Maria Corte-Real Santos, Craig Costello and Jia Shi. CRYPTO 2022",
+    "year": "2022",
+    "original_text": "Maria Corte-Real Santos, Craig Costello and Jia Shi. Accelerating the Delfs-Galbraith algorithm with fast subfield root detection . CRYPTO 2022 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Accelerating the Delfs-Galbraith algorithm with fast subfield root detection",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-031-15982-4_10"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2021/1488.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-009",
+    "title": "The Case for SIKE: A Decade of the Supersingular Isogeny Problem",
+    "detail": "Craig Costello. The NIST 3rd Post-Quantum Cryptography Standardization Conference. White paper",
+    "year": null,
+    "original_text": "Craig Costello. The Case for SIKE: A Decade of the Supersingular Isogeny Problem . The NIST 3rd Post-Quantum Cryptography Standardization Conference. White paper .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "The Case for SIKE: A Decade of the Supersingular Isogeny Problem",
+        "original_url": "https://eprint.iacr.org/2021/543.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-010",
+    "title": "Sieving for twin smooth integers with solutions to the Prouhet-Tarry-Escott problem",
+    "detail": "Craig Costello, Michael Meyer and Michael Naehrig. EUROCRYPT 2021",
+    "year": "2021",
+    "original_text": "Craig Costello, Michael Meyer and Michael Naehrig. Sieving for twin smooth integers with solutions to the Prouhet-Tarry-Escott problem . EUROCRYPT 2021 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Sieving for twin smooth integers with solutions to the Prouhet-Tarry-Escott problem",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-030-77870-5_10"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2020/1283.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-011",
+    "title": "B-SIDH: supersingular isogeny Diffie-Hellman using twisted torsion",
+    "detail": "Craig Costello. ASIACRYPT 2020",
+    "year": "2020",
+    "original_text": "Craig Costello. B-SIDH: supersingular isogeny Diffie-Hellman using twisted torsion . ASIACRYPT 2020 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "B-SIDH: supersingular isogeny Diffie-Hellman using twisted torsion",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-030-64834-3_15"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2019/1145.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-012",
+    "title": "The supersingular isogeny problem in genus 2 and beyond",
+    "detail": "Craig Costello and Benjamin Smith. PQCrypto 2020",
+    "year": "2020",
+    "original_text": "Craig Costello and Benjamin Smith. The supersingular isogeny problem in genus 2 and beyond . PQCrypto 2020 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "The supersingular isogeny problem in genus 2 and beyond",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-030-44223-1_9"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2019/1387.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-013",
+    "title": "Improved classical cryptanalysis of SIKE in practice",
+    "detail": "Craig Costello, Patrick Longa, Michael Naehrig, Joost Renes and Fernando Virdia. PKC 2020",
+    "year": "2020",
+    "original_text": "Craig Costello, Patrick Longa, Michael Naehrig, Joost Renes and Fernando Virdia. Improved classical cryptanalysis of SIKE in practice . PKC 2020 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Improved classical cryptanalysis of SIKE in practice",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-030-45388-6_18"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2019/298.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-014",
+    "title": "Supersingular isogeny key exchange for beginners",
+    "detail": "Craig Costello. Invited paper at SAC 2019",
+    "year": "2019",
+    "original_text": "Craig Costello. Supersingular isogeny key exchange for beginners . Invited paper at SAC 2019 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Supersingular isogeny key exchange for beginners",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-030-38471-5_2"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2019/1321.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-015",
+    "title": "Computing supersingular isogenies on Kummer surfaces",
+    "detail": "Craig Costello. ASIACRYPT 2018",
+    "year": "2018",
+    "original_text": "Craig Costello. Computing supersingular isogenies on Kummer surfaces . ASIACRYPT 2018 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Computing supersingular isogenies on Kummer surfaces",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-030-03332-3_16"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2018/850.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-016",
+    "title": "A simple and compact algorithm for SIDH with arbitrary degree isogenies",
+    "detail": "Craig Costello and Huseyin Hisil. ASIACRYPT 2017",
+    "year": "2017",
+    "original_text": "Craig Costello and Huseyin Hisil. A simple and compact algorithm for SIDH with arbitrary degree isogenies . ASIACRYPT 2017 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "A simple and compact algorithm for SIDH with arbitrary degree isogenies",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-319-70697-9_11"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2017/504.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-017",
+    "title": "Montgomery curves and their arithmetic: the case of large characteristic fields",
+    "detail": "Craig Costello and Benjamin Smith. Special issue of Journal of Cryptographic Engineering in tribute to Peter L. Montgomery, 2017",
+    "year": "2017",
+    "original_text": "Craig Costello and Benjamin Smith. Montgomery curves and their arithmetic: the case of large characteristic fields . Special issue of Journal of Cryptographic Engineering in tribute to Peter L. Montgomery, 2017. Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Montgomery curves and their arithmetic: the case of large characteristic fields",
+        "original_url": "https://link.springer.com/article/10.1007/s13389-017-0157-6"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2017/212.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-018",
+    "title": "Efficient compression of SIDH public keys",
+    "detail": "Craig Costello, David Jao, Patrick Longa, Michael Naehrig, Joost Renes and David Urbanik. EUROCRYPT 2017",
+    "year": "2017",
+    "original_text": "Craig Costello, David Jao, Patrick Longa, Michael Naehrig, Joost Renes and David Urbanik. Efficient compression of SIDH public keys . EUROCRYPT 2017 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Efficient compression of SIDH public keys",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-319-56620-7_24"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2016/963.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-019",
+    "title": "Frodo: Take off the ring! Practical, Quantum-Secure Key Exchange from LWE",
+    "detail": "Joppe Bos, Craig Costello, Léo Ducas, Ilya Mironov, Michael Naehrig, Valeria Nikolaenko, Ananth Raghunathan and Douglas Stebila. ACM CCS 2016",
+    "year": "2016",
+    "original_text": "Joppe Bos, Craig Costello, Léo Ducas, Ilya Mironov, Michael Naehrig, Valeria Nikolaenko, Ananth Raghunathan and Douglas Stebila. Frodo: Take off the ring! Practical, Quantum-Secure Key Exchange from LWE . ACM CCS 2016 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Frodo: Take off the ring! Practical, Quantum-Secure Key Exchange from LWE",
+        "original_url": "https://dl.acm.org/doi/10.1145/2976749.2978425"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2016/659.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-020",
+    "title": "Efficient algorithms for supersingular isogeny Diffie-Hellman",
+    "detail": "Craig Costello, Patrick Longa and Michael Naehrig. CRYPTO 2016",
+    "year": "2016",
+    "original_text": "Craig Costello, Patrick Longa and Michael Naehrig. Efficient algorithms for supersingular isogeny Diffie-Hellman . CRYPTO 2016 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Efficient algorithms for supersingular isogeny Diffie-Hellman",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-662-53018-4_21"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2016/413.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-021",
+    "title": "Complete addition formulas for prime order elliptic curves",
+    "detail": "Joost Renes, Craig Costello and Lejla Batina. EUROCRYPT 2016",
+    "year": "2016",
+    "original_text": "Joost Renes, Craig Costello and Lejla Batina. Complete addition formulas for prime order elliptic curves . EUROCRYPT 2016 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Complete addition formulas for prime order elliptic curves",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-662-49890-3_16"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2015/1060.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-022",
+    "title": "Fast, Uniform Scalar Multiplication for Genus 2 Jacobians with Fast Kummers",
+    "detail": "Ping Ngai Chung, Craig Costello and Benjamin Smith. SAC 2016",
+    "year": "2016",
+    "original_text": "Ping Ngai Chung, Craig Costello and Benjamin Smith. Fast, Uniform Scalar Multiplication for Genus 2 Jacobians with Fast Kummers . SAC 2016 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Fast, Uniform Scalar Multiplication for Genus 2 Jacobians with Fast Kummers",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-319-69453-5_25"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2015/983.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-023",
+    "title": "FourQ: four-dimensional decompositions on a Q-curve over the Mersenne prime",
+    "detail": "Craig Costello and Patrick Longa. ASIACRYPT 2015",
+    "year": "2015",
+    "original_text": "Craig Costello and Patrick Longa. FourQ: four-dimensional decompositions on a Q-curve over the Mersenne prime . ASIACRYPT 2015 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "FourQ: four-dimensional decompositions on a Q-curve over the Mersenne prime",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-662-48797-6_10"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2015/565.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-024",
+    "title": "Subgroup security in pairing-based cryptography",
+    "detail": "Paulo S. L. M. Barreto, Craig Costello, Rafael Misoczki, Michael Naehrig, Geovandro C. C. F. Pereira and Gustavo Zanon. LATINCRYPT 2015",
+    "year": "2015",
+    "original_text": "Paulo S. L. M. Barreto, Craig Costello, Rafael Misoczki, Michael Naehrig, Geovandro C. C. F. Pereira and Gustavo Zanon. Subgroup security in pairing-based cryptography . LATINCRYPT 2015 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Subgroup security in pairing-based cryptography",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-319-22174-8_14"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2015/247.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-025",
+    "title": "Gepetto: Versatile Verifiable Computation",
+    "detail": "Craig Costello, Cedric Fournet, Jon Howell, Markulf Kohlweiss, Benjamin Kreuter, Michael Naehrig, Bryan Parno, and Samee Zahur. IEEE S&P2015",
+    "year": null,
+    "original_text": "Craig Costello, Cedric Fournet, Jon Howell, Markulf Kohlweiss, Benjamin Kreuter, Michael Naehrig, Bryan Parno, and Samee Zahur. Gepetto: Versatile Verifiable Computation . IEEE S&P2015 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Gepetto: Versatile Verifiable Computation",
+        "original_url": "https://ieeexplore.ieee.org/document/7163030/"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2014/976.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-026",
+    "title": "Post-quantum key exchange for the TLS protocol from the ring learning with errors problem",
+    "detail": "Joppe W. Bos, Craig Costello, Michael Naehrig, and Douglas Stebila. IEEE S&P2015",
+    "year": null,
+    "original_text": "Joppe W. Bos, Craig Costello, Michael Naehrig, and Douglas Stebila. Post-quantum key exchange for the TLS protocol from the ring learning with errors problem . IEEE S&P2015 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Post-quantum key exchange for the TLS protocol from the ring learning with errors problem",
+        "original_url": "https://ieeexplore.ieee.org/document/7163047/"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2014/599.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-027",
+    "title": "Selecting Elliptic Curves for Cryptography: An Efficiency and Security Analysis",
+    "detail": "Joppe W. Bos, Craig Costello, Patrick Longa, and Michael Naehrig. Journal of Cryptographic Engineering, 2015",
+    "year": "2015",
+    "original_text": "Joppe W. Bos, Craig Costello, Patrick Longa, and Michael Naehrig. Selecting Elliptic Curves for Cryptography: An Efficiency and Security Analysis . Journal of Cryptographic Engineering, 2015 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Selecting Elliptic Curves for Cryptography: An Efficiency and Security Analysis",
+        "original_url": "https://link.springer.com/article/10.1007/s13389-015-0097-y"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2014/130.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-028",
+    "title": "Jacobian Coordinates on Genus 2 Curves",
+    "detail": "Huseyin Hisil and Craig Costello. ASIACRYPT 2014 and Journal of Cryptology",
+    "year": "2014",
+    "original_text": "Huseyin Hisil and Craig Costello. Jacobian Coordinates on Genus 2 Curves . ASIACRYPT 2014 and Journal of Cryptology . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Jacobian Coordinates on Genus 2 Curves",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-662-45611-8_18"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2014/385.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-029",
+    "title": "Constructing Abelian Surfaces for Cryptography via Rosenhain Invariants",
+    "detail": "Craig Costello, Alyson Deines-Schartz, Kristin Lauter, and Tonghai Yang. ANTS 2014",
+    "year": "2014",
+    "original_text": "Craig Costello, Alyson Deines-Schartz, Kristin Lauter, and Tonghai Yang. Constructing Abelian Surfaces for Cryptography via Rosenhain Invariants . ANTS 2014 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Constructing Abelian Surfaces for Cryptography via Rosenhain Invariants",
+        "original_url": "https://www.cambridge.org/core/journals/lms-journal-of-computation-and-mathematics/article/constructing-abelian-surfaces-for-cryptography-via-rosenhain-invariants/CDCFA7B7E1348638475FA253AF316538"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2014/424.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-030",
+    "title": "Faster Compact Diffie-Hellman: Endomorphisms on the x-line",
+    "detail": "Craig Costello, Huseyin Hisil, and Benjamin Smith. EUROCRYPT 2014",
+    "year": "2014",
+    "original_text": "Craig Costello, Huseyin Hisil, and Benjamin Smith. Faster Compact Diffie-Hellman: Endomorphisms on the x-line . EUROCRYPT 2014 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Faster Compact Diffie-Hellman: Endomorphisms on the x-line",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-642-55220-5_11"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2013/692.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-031",
+    "title": "Elliptic and Hyperelliptic Curves: a Practical Security Analysis",
+    "detail": "Joppe W. Bos, Craig Costello, and Andrea Miele. PKC 2014",
+    "year": "2014",
+    "original_text": "Joppe W. Bos, Craig Costello, and Andrea Miele. Elliptic and Hyperelliptic Curves: a Practical Security Analysis . PKC 2014 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Elliptic and Hyperelliptic Curves: a Practical Security Analysis",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-642-54631-0_12"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2013/644.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-032",
+    "title": "Exponentiating in Pairing Groups",
+    "detail": "Joppe W. Bos, Craig Costello, and Michael Naehrig. SAC 2013",
+    "year": "2013",
+    "original_text": "Joppe W. Bos, Craig Costello, and Michael Naehrig. Exponentiating in Pairing Groups . SAC 2013 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Exponentiating in Pairing Groups",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-662-43414-7_22"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2013/458.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-033",
+    "title": "High-Performance Scalar Multiplication using 8-Dimensional GLV/GLS Decomposition",
+    "detail": "Joppe W. Bos, Craig Costello, Huseyin Hisil and Kristin Lauter. CHES 2013",
+    "year": "2013",
+    "original_text": "Joppe W. Bos, Craig Costello, Huseyin Hisil and Kristin Lauter. High-Performance Scalar Multiplication using 8-Dimensional GLV/GLS Decomposition . CHES 2013 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "High-Performance Scalar Multiplication using 8-Dimensional GLV/GLS Decomposition",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-642-40349-1_19"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2013/146.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-034",
+    "title": "Fast Cryptography in Genus 2",
+    "detail": "Joppe W. Bos, Craig Costello, Huseyin Hisil and Kristin Lauter. EUROCRYPT 2013 and the Journal of Cryptology",
+    "year": "2013",
+    "original_text": "Joppe W. Bos, Craig Costello, Huseyin Hisil and Kristin Lauter. Fast Cryptography in Genus 2 . EUROCRYPT 2013 and the Journal of Cryptology . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Fast Cryptography in Genus 2",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-642-38348-9_12"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2012/670.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-035",
+    "title": "Fast formulas for computing cryptographic pairings",
+    "detail": "Craig Costello. Ph.D. thesis",
+    "year": null,
+    "original_text": "Craig Costello. Fast formulas for computing cryptographic pairings . Ph.D. thesis .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Fast formulas for computing cryptographic pairings",
+        "original_url": "https://eprints.qut.edu.au/61037/"
+      }
+    ]
+  },
+  {
+    "id": "papers-036",
+    "title": "Attractive subfamilies of BLS Curves for Implementing High-Security Pairings",
+    "detail": "Craig Costello, Kristin Lauter, and Michael Naehrig. INDOCRYPT 2011",
+    "year": "2011",
+    "original_text": "Craig Costello, Kristin Lauter, and Michael Naehrig. Attractive subfamilies of BLS Curves for Implementing High-Security Pairings . INDOCRYPT 2011 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Attractive subfamilies of BLS Curves for Implementing High-Security Pairings",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-642-25578-6_23"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2011/465.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-037",
+    "title": "Group Law Computations on Jacobians of Hyperelliptic Curves",
+    "detail": "Craig Costello and Kristin Lauter. SAC 2011",
+    "year": "2011",
+    "original_text": "Craig Costello and Kristin Lauter. Group Law Computations on Jacobians of Hyperelliptic Curves . SAC 2011 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Group Law Computations on Jacobians of Hyperelliptic Curves",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-642-28496-0_6"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2011/306.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-038",
+    "title": "Fixed Argument Pairings",
+    "detail": "Craig Costello and Douglas Stebila. LATINCRYPT 2010",
+    "year": "2010",
+    "original_text": "Craig Costello and Douglas Stebila. Fixed Argument Pairings . LATINCRYPT 2010 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Fixed Argument Pairings",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-642-14712-8_6"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2010/342.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-039",
+    "title": "Delaying mismatched field multiplications in pairing computations",
+    "detail": "Craig Costello, Colin Boyd, Juan Manuel Gonzalez Nieto, and Kenneth Koon-Ho Wong. WAIFI 2010",
+    "year": "2010",
+    "original_text": "Craig Costello, Colin Boyd, Juan Manuel Gonzalez Nieto, and Kenneth Koon-Ho Wong. Delaying mismatched field multiplications in pairing computations . WAIFI 2010 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Delaying mismatched field multiplications in pairing computations",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-642-13797-6_14"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2010/123.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-040",
+    "title": "Avoiding full extension field arithmetic in pairing computations",
+    "detail": "Craig Costello, Colin Boyd, Juanma Gonzalez-Nieto, and Kenneth Koon-Ho Wong. AFRICACRYPT 2010",
+    "year": "2010",
+    "original_text": "Craig Costello, Colin Boyd, Juanma Gonzalez-Nieto, and Kenneth Koon-Ho Wong. Avoiding full extension field arithmetic in pairing computations . AFRICACRYPT 2010 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Avoiding full extension field arithmetic in pairing computations",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-642-12678-9_13"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2010/104.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-041",
+    "title": "Faster pairing computations on curves with high-degree twists",
+    "detail": "Craig Costello, Tanja Lange, and Michael Naehrig. PKC 2010",
+    "year": "2010",
+    "original_text": "Craig Costello, Tanja Lange, and Michael Naehrig. Faster pairing computations on curves with high-degree twists . PKC 2010 . Full version .",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Faster pairing computations on curves with high-degree twists",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-642-13013-7_14"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2009/615.pdf"
+      }
+    ]
+  },
+  {
+    "id": "papers-042",
+    "title": "Faster pairings on special Weierstrass curves",
+    "detail": "Craig Costello, Huseyin Hisil, Colin Boyd, Juan Manuel Gonzalez Nieto, and Kenneth Koon-Ho Wong. PAIRING 2009",
+    "year": "2009",
+    "original_text": "Craig Costello, Huseyin Hisil, Colin Boyd, Juan Manuel Gonzalez Nieto, and Kenneth Koon-Ho Wong. Faster pairings on special Weierstrass curves . PAIRING 2009 . Full version",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "Faster pairings on special Weierstrass curves",
+        "original_url": "https://link.springer.com/chapter/10.1007/978-3-642-03298-1_7"
+      },
+      {
+        "text": "Full version",
+        "original_url": "https://eprint.iacr.org/2009/243.pdf"
+      }
+    ]
+  }
+]

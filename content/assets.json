@@ -1,0 +1,1789 @@
+[
+  {
+    "local_url": "/images/craig-costello.jpg",
+    "source_file": "657B1299(1).jpg",
+    "source_library_file_id": "libfile_dff69191e47c819183f9b2b955f1378a",
+    "size_bytes": 406364,
+    "sha256": "1705ebd2e246d7a89c06efb9d27641f281e7761095f845a59619b67e0220cd81",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/logos/australian.jpg",
+    "provenance": "See branding.json, featured-media.json, tutorials.json and REVIEW.md",
+    "size_bytes": 199158,
+    "sha256": "0e9211dbbb70f41e62cb6e2b290aca49d1d816dea11340a740d2f63219447ce6",
+    "original_url": "https://static.wixstatic.com/media/63a68f_f00dfa71f73e4495829dc84101f8140a~mv2.jpg",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/logos/cosmos.jpg",
+    "provenance": "See branding.json, featured-media.json, tutorials.json and REVIEW.md",
+    "size_bytes": 61167,
+    "sha256": "fddba593f2032b30ae192c6c13d2210a9a0094cb07c34bd114f636fdc4f9acb5",
+    "original_url": "https://i1.sndcdn.com/avatars-000132691713-pi7t11-t1080x1080.jpg",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/logos/mathquest.png",
+    "size_bytes": 255173,
+    "sha256": "4991beaaac3590853fdb4c22a5d56265933462e728718d44fefb936892930c5f",
+    "provenance": "See content/branding.json, featured-media.json, tutorials.json or review-notes.md",
+    "original_url": "https://mathquest.edu.au/wp-content/uploads/2026/02/Logo.png",
+    "file_type": "PNG",
+    "content_type": "image/png"
+  },
+  {
+    "local_url": "/images/logos/mit-technology-review.svg",
+    "size_bytes": 3748,
+    "sha256": "43ac83101786776ab6fda9ce064173c0e17c29f30e108f5909aa6a21e68d8de3",
+    "provenance": "See content/branding.json, featured-media.json, tutorials.json or review-notes.md",
+    "original_url": "https://www.technologyreview.com/",
+    "file_type": "SVG",
+    "content_type": "image/svg+xml"
+  },
+  {
+    "local_url": "/images/logos/qut.jpg",
+    "size_bytes": 5130,
+    "sha256": "70f7f05b015614babf0089cb77980fa06d08b3b9861fcbba5b57c7c3e979df58",
+    "provenance": "See content/branding.json, featured-media.json, tutorials.json or review-notes.md",
+    "original_url": "https://www.qut.edu.au/qut-logo-og-200.jpg",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/logos/register.svg",
+    "size_bytes": 8951,
+    "sha256": "3b12da9822b819f8c9ce760b8536bb2f976edf443946dd581f93610ab4e0b703",
+    "provenance": "See content/branding.json, featured-media.json, tutorials.json or review-notes.md",
+    "original_url": "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg",
+    "file_type": "SVG",
+    "content_type": "image/svg+xml"
+  },
+  {
+    "local_url": "/images/media/media-001.jpg",
+    "size_bytes": 112281,
+    "sha256": "7c91b183398138c17ca69a35bff661ad3a0ad7397ee525519cc9f84357550e9a",
+    "original_url": "https://itbrief.com.au/uploads/story/2026/09/15/compatible_TD_images_0901__16_-story-318987.jpg",
+    "referring_page": "https://itbrief.com.au/story/it-leaders-warn-ai-could-erode-vital-technical-skills",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-002.jpg",
+    "size_bytes": 300135,
+    "sha256": "84f9d4895893ce5289a50bc8fb14e48f5c023c54c9fbacf5136c48562c243bf9",
+    "original_url": "https://ia.acs.org.au/content/dam/ia/article/images/2026/driver%20licences.jpg",
+    "referring_page": "https://ia.acs.org.au/article/2026/153-million-driver-licences-exposed-on-dark-web.html",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-003.jpg",
+    "size_bytes": 137755,
+    "sha256": "65e428c556dcf055a4b4be0b4b9283324a1b63aabfd24b50d67cff1f5f3c905d",
+    "original_url": "https://securitybrief.com.au/uploads/story/2026/09/04/compatible_supplied-story-318296.jpg",
+    "referring_page": "https://securitybrief.com.au/story/women-s-cyber-underrepresentation-deepens-as-ai-grows",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-004.jpg",
+    "size_bytes": 117052,
+    "sha256": "ecaf2db95ad855da5fdcd4fdb6467ab5401243d5b7fc97e5a71eee856fd26caf",
+    "original_url": "https://securitybrief.com.au/uploads/story/2026/07/31/compatible_Kawin_Boonyapredee_and_Craig_Costello-story-312645.jpg",
+    "referring_page": "https://securitybrief.com.au/story/origin-energy-probes-alleged-cyber-incident-over-data",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-005.jpg",
+    "size_bytes": 53482,
+    "sha256": "8e3ce53fce10acda2b09056e20b4fef053c329de65f8da710c61e3e21fa87e58",
+    "original_url": "https://ia.acs.org.au/content/dam/ia/article/images/2026/nsw%20health%20nurse%20charged%20patient%20data%20download.jpg",
+    "referring_page": "https://ia.acs.org.au/article/2026/nsw-nurse-charged-over-alleged-data-breach.html",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-006.jpg",
+    "size_bytes": 270519,
+    "sha256": "dd55e115b0baf03cace18b95c77be653f3a610180a121de2288cd32c6de6021a",
+    "original_url": "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1716946461/Cyber%20Daily/system-hacked-alert-csc_jz37mr.jpg",
+    "referring_page": "https://www.cyberdaily.au/security/13947-hack-react-what-the-origin-energy-hack-means-for-australian-consumers-and-businesses",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-007.jpg",
+    "size_bytes": 70413,
+    "sha256": "8e1982bc8b31b64e9106d12f641ed1b4eeb457c88d2c2c7ac21e1491e8be3292",
+    "original_url": "https://ia.acs.org.au/content/dam/ia/article/images/2026/Origin%20-%20staff%20wearing%20hard%20hats.jpg",
+    "referring_page": "https://ia.acs.org.au/article/2026/origin-energy-investigating-possible-data-breach.html",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-008.png",
+    "size_bytes": 1059392,
+    "sha256": "ad684961565b971b1e7c8e0b7da429c669d1b4da2fff2c8fd4301b4dcfbbf085",
+    "original_url": "https://cdn.publicsectornetwork.com/insight/feature_images/Insert_Image_into_Placeholder_677a28.png",
+    "referring_page": "https://publicsectornetwork.com/insight/preparing-for-the-post-quantum-deadline-why-governments-need-to-upgrade-encryption-now?hss_channel=lcp-91198233",
+    "file_type": "PNG",
+    "content_type": "image/png"
+  },
+  {
+    "local_url": "/images/media/media-009.jpg",
+    "size_bytes": 225257,
+    "sha256": "671f2d19d6686bbeb5fae6c86fd5ef8714ff312c5ef7f2604a0911765a0d9907",
+    "original_url": "https://i.vimeocdn.com/video/2164344347-7c37758e95a1e40ca3f227953943124b0545481b5346de8942365cc69d2ea8ea-d?f=webp®ion=us",
+    "referring_page": "https://vimeo.com/1197887291/bef8a994dd?share=copy&fl=sv&fe=ci",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-010.jpg",
+    "size_bytes": 51365,
+    "sha256": "9f13cba8ca9577753ee53d5166eb3b3750471a6897d26dc226a467f7313571c7",
+    "provenance": "See content/branding.json, featured-media.json, tutorials.json or review-notes.md",
+    "original_url": "https://d3wo5wojvuv7l.cloudfront.net/t_facebook_share/images.spreaker.com/original/1e4642ce500d7a17499fb848ec12326a.jpg",
+    "referring_page": "https://www.spreaker.com/episode/quantum-safe-queensland-a-practical-roadmap-with-prof-craig-costello--71885418",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-011.webp",
+    "size_bytes": 135284,
+    "sha256": "f4c25e4a926e6b35b9fc05eb8433c6138e9063302c26d028daa090693421db75",
+    "original_url": "https://cdn-images-w3.rrr.org.au/qEsv7dFE8xrX4KURmOuAusOoyF8=/1200x630/smart/filters:format(webp):quality(90)/https://s3.ap-southeast-2.amazonaws.com/assets-w3.rrr.org.au/assets/c3f/51c/296/c3f51c296da3a0fab1839169c4120979bf617ac7/Byte%20Into%20IT.png",
+    "referring_page": "https://www.rrr.org.au/explore/programs/byte-into-it/episodes/37848-byte-into-it-22-april-2026",
+    "file_type": "WEBP",
+    "content_type": "image/webp"
+  },
+  {
+    "local_url": "/images/media/media-012.jpg",
+    "size_bytes": 143864,
+    "sha256": "2a751dc95dc794f50d8a637b27211b595ffdb3df3145e75b14a2e605c94146d3",
+    "original_url": "https://images.theconversation.com/files/729141/original/file-20260410-57-7z78ug.jpg?ixlib=rb-4.1.1&rect=0%2C571%2C2284%2C1142&q=45&auto=format&w=1356&h=668&fit=crop",
+    "referring_page": "https://theconversation.com/quantum-computers-are-coming-to-break-our-codes-faster-than-anyone-expected-280303",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-013.jpg",
+    "provenance": "See branding.json, featured-media.json, tutorials.json and REVIEW.md",
+    "size_bytes": 139166,
+    "sha256": "81293127a27653c742c93acdf86af653c733ef0f5ed177580e5a3d4372e47a5f",
+    "original_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/a7/b7/84a7b7d8-9673-4da7-8b45-e7909504e0d2/mza_8306746341489514907.jpg/1200x1200ECA.PESS01-60.jpg?imgShow=Podcasts116/v4/9d/f6/3a/9df63a01-5296-4e76-f987-3c03fdc72646/mza_14836650736951595476.jpg",
+    "referring_page": "https://podcasts.apple.com/gb/podcast/asecuritysite-podcast/id1617044319?i=1000745300421",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-014.png",
+    "size_bytes": 17832,
+    "sha256": "136090fb5c4632e5267a808959daa100c752ac671e678569914cf31c6d328f24",
+    "original_url": "https://www.abc.net.au/core-assets/listen/abc-listen.png?imformat=generic",
+    "referring_page": "https://www.abc.net.au/listen/programs/brisbane-drive/drive/105717074",
+    "file_type": "PNG",
+    "content_type": "image/png"
+  },
+  {
+    "local_url": "/images/media/media-015.jpg",
+    "size_bytes": 878686,
+    "sha256": "13f4a42adfd8836a03aee72367a8f428ce5e1de004afb19bae61396dfdfb33e6",
+    "provenance": "See content/branding.json, featured-media.json, tutorials.json or review-notes.md",
+    "original_url": "https://www.qut.edu.au/__data/assets/image/0006/1533255/Cryptography_Real-Focus-Feature-Image.jpg",
+    "referring_page": "https://www.qut.edu.au/news/realfocus/the-quantum-threat-to-your-data-and-our-race-to-stop-it",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-016.jpg",
+    "size_bytes": 222462,
+    "sha256": "1296e6355cd3fa9a04868c9e0848159aa1b350f81c9eb56b682e55063ef6311c",
+    "original_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2c/07/d02c07d5-d3d7-2e9a-7dac-4f9c460634d9/mza_7402080726757330241.jpg/1200x1200bf-60.jpg",
+    "referring_page": "https://podcasts.apple.com/au/podcast/fiveaa-breakfast-with-david-will-with-stacey-lee/id1167323375",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-017.jpg",
+    "size_bytes": 93611,
+    "sha256": "3a4a6f8762b07521c61645a5b4872501f4683f71dba752474e1f4dd9311c60e2",
+    "original_url": "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1742952022/Smart%20Property%20Investment/scam-alert-spi_ideglz_703a09_678.jpg",
+    "referring_page": "https://www.cyberdaily.au/security/12540-the-industry-speaks-scams-awareness-week-2025",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-018.jpg",
+    "size_bytes": 43787,
+    "sha256": "4c0a7903118c85d4ae127ac74a0d4fd87f83dea4a0ac493edc1ee0fafdf57bdd",
+    "original_url": "https://www.educationtoday.com.au/images/news/attach/news-6547-01.jpg",
+    "referring_page": "https://www.educationtoday.com.au/news-detail/AI-Isn-6547",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-019.jpg",
+    "size_bytes": 89487,
+    "sha256": "63d2c9f41599b99af303382101daf9fdabaadd9e2f62a15bb767ceb116020397",
+    "original_url": "https://securitybrief.com.au/uploads/story/2025/07/04/compatible_detailed-illustration-digital-lock-breaking-on-computer-screen-with-australia-outline-cybersecurity-breach.jpg",
+    "referring_page": "https://securitybrief.com.au/story/qantas-breach-sparks-national-push-for-stronger-cyber-resilience",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-020.webp",
+    "size_bytes": 126936,
+    "sha256": "743916a8a6a8a78ac64373554b2c911864227170050b691857b3ddb030978b27",
+    "original_url": "https://images.squarespace-cdn.com/content/v1/5bd78dfad86cc9685648289b/719df1b0-7599-4a01-b906-d5281543346c/EducationMatters_Covers_1080x1080.jpg",
+    "referring_page": "https://www.nationaleducationsummit.com.au/nes-blog/four-steps-to-maximise-your-investment",
+    "file_type": "WEBP",
+    "content_type": "image/webp"
+  },
+  {
+    "local_url": "/images/media/media-022.jpg",
+    "size_bytes": 404217,
+    "sha256": "c313ec5d1feb70c4b1c5074cbc472540b6356aa88d74cb4af8c9a427467751e1",
+    "original_url": "https://www.educationtoday.com.au/images/news/attach/news-6415-01.jpg",
+    "referring_page": "https://www.educationtoday.com.au/news-detail/IT-Workers-Will-Thri-6415",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-023.png",
+    "size_bytes": 17832,
+    "sha256": "136090fb5c4632e5267a808959daa100c752ac671e678569914cf31c6d328f24",
+    "original_url": "https://www.abc.net.au/core-assets/listen/abc-listen.png?imformat=generic",
+    "referring_page": "https://www.abc.net.au/listen/programs/brisbane-mornings/mornings/104879806",
+    "file_type": "PNG",
+    "content_type": "image/png"
+  },
+  {
+    "local_url": "/images/media/media-025.jpg",
+    "size_bytes": 247888,
+    "sha256": "1db42f48778062954e58070b70f6c6331bab20e6f16ac7270b452f382a754838",
+    "provenance": "See content/branding.json, featured-media.json, tutorials.json or review-notes.md",
+    "original_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2019/10/Research_Podcast_Craig-Costello_MSW_09_2019_1280x720.jpg",
+    "referring_page": "https://www.microsoft.com/en-us/research/podcast/news-from-the-front-in-the-post-quantum-crypto-wars-with-dr-craig-costello/",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-026.jpg",
+    "size_bytes": 27882,
+    "sha256": "5b2ebec4e190f4cff8da34f6c3fcdb664741c5db2925c7d916e5a4e583793447",
+    "provenance": "See content/branding.json, featured-media.json, tutorials.json or review-notes.md",
+    "original_url": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/ef54861c-b837-40c3-a9ca-b97fb53eba01/CraigCostello_2019X-embed.jpg?u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82&c=1050%2C550&w=1050",
+    "referring_page": "https://go.ted.com/craigcostello",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/media/media-027.jpg",
+    "size_bytes": 160154,
+    "sha256": "3988335737e45ea31c62c8c081f4ba1afccba6347f8d1a017ca43d1c3f8e7355",
+    "provenance": "See content/branding.json, featured-media.json, tutorials.json or review-notes.md",
+    "original_url": "https://image.theregister.com/226140.jpg?imageId=226140&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+    "referring_page": "https://www.theregister.com/2015/09/15/microsoft_offers_crypto_library_for_next_round_of_standards/",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/00c9e6cc4188a6ae.jpg",
+    "size_bytes": 43646,
+    "sha256": "e082860bd9ecd55c46e84000a7800e4301578379356057170b658de296a47a76",
+    "generated_from": {
+      "local_url": "/slides/ICSP-talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/056717887fc3989c.jpg",
+    "size_bytes": 36392,
+    "sha256": "4e487634bc11a83a5a08860b6d4407d5df8e04db6ab5b91e0e3873b7e3334b7b",
+    "generated_from": {
+      "local_url": "/slides/QuantumSafeQLD.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/08757e87215864dd.jpg",
+    "size_bytes": 47429,
+    "sha256": "1cec7cc7f7d02023f1719307999f4b8c7f26da48aaec9ca3de2a68ca847f8fe4",
+    "generated_from": {
+      "local_url": "/slides/2015-AMS2015talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/08826a19c207d465.jpg",
+    "size_bytes": 27448,
+    "sha256": "c9f21799a9b422c1076d0d72f33b5df57197ec37a23c6a827e11ccd3773089c0",
+    "generated_from": {
+      "local_url": "/slides/crypto-2024.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/114c1d74b4d28c27.jpg",
+    "size_bytes": 26605,
+    "sha256": "740d214342871692d68053980342cbf368cbf6f7fee663e96f3bc541543747cf",
+    "generated_from": {
+      "local_url": "/slides/01-Elliptic-Curves-October-1.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/1ca5ed8710d85746.jpg",
+    "size_bytes": 34336,
+    "sha256": "4ae4e24b4530e20f8c12f8b8729cd306e69217dd616ae007689a3ed8f56a34e7",
+    "generated_from": {
+      "local_url": "/slides/2016-SPACE2016tutorial2.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/1ece23eaf1a06c3e.jpg",
+    "size_bytes": 45769,
+    "sha256": "c1180460dd9dad152ede07bdbc51182177c95d372b03b9cddf83b8b382b4534c",
+    "generated_from": {
+      "local_url": "/slides/2013-JMMtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/1f729b2e764afd29.jpg",
+    "size_bytes": 45676,
+    "sha256": "bda847173c9c247e7cd2b9578e969c76f7422227817c7c87f3379ca238e7b100",
+    "generated_from": {
+      "local_url": "/slides/2018-AsiaCrypt2018talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/2112150d2c3e07d5.jpg",
+    "size_bytes": 61225,
+    "sha256": "e3abf269cdf9bc9dcaf9419d1f03feb9efc1313a50c229c8fcceeca24339cc42",
+    "generated_from": {
+      "local_url": "/slides/2019-OxfordPQCtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/221f4a2d106890c4.jpg",
+    "size_bytes": 23165,
+    "sha256": "e12ad2f99aefdbd9eca21c58e7a1de9354e51cc37f8836530925b7c3211c211b",
+    "generated_from": {
+      "local_url": "/slides/2016-QUTmathseminar1talk.PDF",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/247414dd47ad77a8.jpg",
+    "size_bytes": 33393,
+    "sha256": "b85a42841e953edbe5e2585be3cf2f0bd21fcb4926d324708aa6ec668f03514b",
+    "generated_from": {
+      "local_url": "/slides/2010-LatinCrypt2010talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/29b0cf4b40adf984.jpg",
+    "size_bytes": 24043,
+    "sha256": "0e229f3d3372abad52c5595d6ac29972fc66b22e848a8572be7edee78416cdaf",
+    "generated_from": {
+      "local_url": "/slides/2015-NISTFourQtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/2ef8539609818bf7.jpg",
+    "size_bytes": 37926,
+    "sha256": "351927f15204359bd849008e738dd8145a7f56d7878826a29f19bb25a0b3c57b",
+    "generated_from": {
+      "local_url": "/slides/2013-CryptoSecForumtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/3057de7aa4b5cb76.jpg",
+    "size_bytes": 40819,
+    "sha256": "8a23fd3e76b8e5dbe0be3f8358a59657832d7fe352161d80600e5d49322062c5",
+    "generated_from": {
+      "local_url": "/slides/2013-SAC2013talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/31e5aab1285c363f.jpg",
+    "size_bytes": 46869,
+    "sha256": "a6f54728b5853894babefd69bef56ce18f2776a7e55d1be05a30d1b637fda402",
+    "generated_from": {
+      "local_url": "/slides/2010-WAIFI2010talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/340e7817e3d7cf3f.jpg",
+    "size_bytes": 47392,
+    "sha256": "a10a9c0a80047a702aeb7e13a420bc7bca91e0057f3fb9978d11708212e77dfb",
+    "generated_from": {
+      "local_url": "/slides/2013-MSRPrivacyTalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/381b67d4b52c984b.jpg",
+    "size_bytes": 42582,
+    "sha256": "3a9cf660a30da42ca90a473205bd4299386be044e176c3aa9b3ade6e4e8cdb35",
+    "generated_from": {
+      "local_url": "/slides/2010-PKC2010talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/39439397940143a4.jpg",
+    "size_bytes": 37212,
+    "sha256": "8ea075eefa561a181b6c9da71b894be0e65520aab06354ac3b523517f92b6c87",
+    "generated_from": {
+      "local_url": "/slides/2017-Croatiainvitedtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/3b3aaae87a5674c1.jpg",
+    "size_bytes": 30777,
+    "sha256": "728d81a862231c5abe549f77dc2b5bb5591d8b713f4307a94c83e7c61a0a57e2",
+    "generated_from": {
+      "local_url": "/slides/2015-NIST-position.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/41115b2b4a392974.jpg",
+    "size_bytes": 25675,
+    "sha256": "08b3894386037f10276c206eb1b3ecf66eaba13e0f0aa654d2a06587c1080345",
+    "generated_from": {
+      "local_url": "/slides/2014-CFRGtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/43240d63b6f668c8.jpg",
+    "size_bytes": 32540,
+    "sha256": "617778e32208dced4631cd6b4d5f9719fb9d94b3a92b13f0b73ba6dc3ea334f0",
+    "generated_from": {
+      "local_url": "/slides/2016-Crypto2016talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/45c0230ab22131da.jpg",
+    "size_bytes": 32422,
+    "sha256": "45fc2016e901d676694e0cf99b2f5cc5203339dc1bedae3d344353e235856d5e",
+    "generated_from": {
+      "local_url": "/slides/RMIT.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/4727251ba3c84949.jpg",
+    "size_bytes": 33886,
+    "sha256": "c0b56477bf949e7bc7063f8398a7d6f70a0d4f62f64eaa84bf76166d2886d951",
+    "generated_from": {
+      "local_url": "/slides/ACS_talk_2025.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/4ab6917f5a2b9f34.jpg",
+    "size_bytes": 33441,
+    "sha256": "7ef20230219111c9e40e3ed527c389ccbae4338594054ba5b2d029f8b1ff0549",
+    "generated_from": {
+      "local_url": "/slides/2017-ECCtutorial.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/504f20e521df6707.jpg",
+    "size_bytes": 41745,
+    "sha256": "2ea4ea2e5e0a52b5dcfb40fdb23f75d037fddcf5ba52daa27a452ad50d329438",
+    "generated_from": {
+      "local_url": "/slides/2012-ECCworkshoptalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/5528ef6c6d000730.jpg",
+    "size_bytes": 43370,
+    "sha256": "fcf483c8f6cf0af46b98a3afb4f6e32dc621be4668c62f49cc590c68d3a730a0",
+    "generated_from": {
+      "local_url": "/slides/2019-SACtutorial2.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/5fa4ea1e2fc1c4c3.jpg",
+    "size_bytes": 32807,
+    "sha256": "541c8077c39eed25a7a3a97a68cff5a75e962407dc1f058cae75b967919c22c9",
+    "generated_from": {
+      "local_url": "/slides/why-hyperelliptic.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/65dd21ad0a07aeea.jpg",
+    "size_bytes": 39968,
+    "sha256": "b9e32c77598f6d63a0c366a89acf29d4094b4ceb734d769165e308bffb315592",
+    "generated_from": {
+      "local_url": "/slides/The_Future_of_Encryption_AHECS_2026.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/71eefd687c2daf7c.jpg",
+    "size_bytes": 42344,
+    "sha256": "dcdf019a6aa7a0d75afb09150edb4e8f45e45c3eafb9e69973d0c930320e95d8",
+    "generated_from": {
+      "local_url": "/slides/2014-ECCInvitedtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/73410ab2b0185443.jpg",
+    "size_bytes": 27324,
+    "sha256": "d5ae724685bdec065e2a40d4017ff59d83bb9eb2568cb0604c4d612bf37cd5ed",
+    "generated_from": {
+      "local_url": "/slides/UCLA.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/749c10b760b36f1a.jpg",
+    "size_bytes": 45138,
+    "sha256": "c896cca06f36461331effb51e7ff83701f4248dcbcbf1d92e778cbefa9420141",
+    "generated_from": {
+      "local_url": "/slides/2010-AfricaCrypt2010talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/75bd5041cd08842c.jpg",
+    "size_bytes": 28248,
+    "sha256": "3d0afeebae6b81b8864a79a16c3a8f43fdfa739c8fd01ec88b148aa51cb05b22",
+    "generated_from": {
+      "local_url": "/slides/NIST.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/790648ae5a7cd5a5.jpg",
+    "size_bytes": 42635,
+    "sha256": "ff1e65f703d7fbac3db1a6b72cfa068a592a352357d819ec731806d32a4b8313",
+    "generated_from": {
+      "local_url": "/slides/2010-Izmir2010talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/8045d488321b41af.jpg",
+    "size_bytes": 33394,
+    "sha256": "cb6a9d0eaa7576c2a2de8fdbd6cb2a88a0de0e97e68f9132f1668d3c797eb15d",
+    "generated_from": {
+      "local_url": "/slides/2016-Nijmegeninvitedtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/8768e21d3fdfa03a.jpg",
+    "size_bytes": 44995,
+    "sha256": "c564b033d46a0b6682a41081f05f76d15530bedf9f58bcfe8b23594abacfebaf",
+    "generated_from": {
+      "local_url": "/slides/2020-AsiaCrypt2020talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/882ae2bf5eb6034c.jpg",
+    "size_bytes": 24067,
+    "sha256": "5a3ddff5f7d5166c38740d37b02917d4db302fc351a31f634e483e1bf6b48d27",
+    "generated_from": {
+      "local_url": "/slides/2016-QUTmathseminartalk2.PDF",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/96408d96ef368ca2.jpg",
+    "size_bytes": 49196,
+    "sha256": "3270536eb773b043dd11e919abcf9c8e99198eac0fab814c10bf2b82c9902cfe",
+    "generated_from": {
+      "local_url": "/slides/2013-EuroCrypt2013talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/96a28033f7762e07.jpg",
+    "size_bytes": 43416,
+    "sha256": "18ddcd839456f03d3c7d5ffe7205562b081910abe0806bae00eb698d89cde1ad",
+    "generated_from": {
+      "local_url": "/slides/2015-AsiaCrypt2015talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/990debd5cda63b11.jpg",
+    "size_bytes": 34991,
+    "sha256": "9d1617019ad71659fc0e61b1af43c46820520916c1e6c8c0f2599406ed4adf49",
+    "generated_from": {
+      "local_url": "/slides/2012-MSRLunchtalk-2.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/99e27057c74ada37.jpg",
+    "size_bytes": 28516,
+    "sha256": "03eebeddcd0a795e7dfa899ed80c87f9e8257a9b625dcb78571022058f7f0b09",
+    "generated_from": {
+      "local_url": "/slides/2020-webinar.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/9a0370c079896dce.jpg",
+    "size_bytes": 33634,
+    "sha256": "3f75466ceeef8cb94a86b991054fe53c2e9ae9242e804077e6dff63f2f0b735a",
+    "generated_from": {
+      "local_url": "/slides/2018-Croatiatutorial1.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/9c33523244f47bf9.jpg",
+    "size_bytes": 31688,
+    "sha256": "5013c0620c2bebf6cc036b237dc7bc88e3f636401bc3629e5d7f72abb889a5ee",
+    "generated_from": {
+      "local_url": "/slides/02-Hyperelliptic-Curves-October-1.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/a00b3426fe418527.jpg",
+    "size_bytes": 39989,
+    "sha256": "acf311f55b6cf4855a573a6e5230d36177c86158e9e0086435273a03ff6c6c10",
+    "generated_from": {
+      "local_url": "/slides/2012-ECCinvitedtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/a46f1917cf5693bc.jpg",
+    "size_bytes": 50712,
+    "sha256": "990846b4f3396c0456238e63273cc3eff099085c1f291c5dfe57cb657998e0c7",
+    "generated_from": {
+      "local_url": "/slides/2018-ASEC2018talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/ab5e6131054d793b.jpg",
+    "size_bytes": 26961,
+    "sha256": "5139a6c23fc8082a06c466f506227b699700718b2348096043d7cd35bf3b90b7",
+    "generated_from": {
+      "local_url": "/slides/2020-PQCrypto2020talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/acb4f6f71ccf9a75.jpg",
+    "size_bytes": 37912,
+    "sha256": "42e168d2f8d612b1a6742e25a6cd36a308b2f7158574b11158d4879f223e57bf",
+    "generated_from": {
+      "local_url": "/slides/2016-SPACE2016invited.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/ad8442454c2710b3.jpg",
+    "size_bytes": 51662,
+    "sha256": "26885aae8ba469863f8dff5974f6a92a5f3ed4ea90ff06a50dae0146abb98195",
+    "generated_from": {
+      "local_url": "/slides/2016-Aucklandinvitedtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/b839c9a9d3c19e77.jpg",
+    "size_bytes": 33584,
+    "sha256": "34aa51eba87977cfea40dcb732e69a64cc9e4308b14e02c5b86b82b7add9a8f2",
+    "generated_from": {
+      "local_url": "/slides/2016-MSRIndiainvitedtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/b8d1d5f5725ba134.jpg",
+    "size_bytes": 63027,
+    "sha256": "f8263ef0e24bf7d49bf05b5f98d7226db32b4d459eea4bfd9225b71404e464d2",
+    "generated_from": {
+      "local_url": "/slides/2017-ECCinvitedtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/b9476b6356c43f57.jpg",
+    "size_bytes": 31044,
+    "sha256": "a6d688ebb418760d915d686008f3fd28147de4f81deafaaa2d2e7d4c1a7821d0",
+    "generated_from": {
+      "local_url": "/slides/2013-MSRlunchtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/bafd123a9a03bc58.jpg",
+    "size_bytes": 51321,
+    "sha256": "8826c5520e7f3aaa12cd1d43f60f57b9656fc008d41e640db67ed612cf992655",
+    "generated_from": {
+      "local_url": "/slides/2013-AlgCurves2013talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/bc0d64070445fde5.jpg",
+    "size_bytes": 36976,
+    "sha256": "d4d814ac8742050e9509bb019e9c80677a58b7291fd481a876c9ee6e275d23bc",
+    "generated_from": {
+      "local_url": "/slides/2019-SACtutorial1.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/bd710d627cbba39d.jpg",
+    "size_bytes": 22333,
+    "sha256": "f9910da14ba2bcf6e0a35e6b98f0370b5119db7e45e1af94e00c1a01d83203a6",
+    "generated_from": {
+      "local_url": "/slides/2014-ECCRumptalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/c185e3ee029decb5.jpg",
+    "size_bytes": 41494,
+    "sha256": "a2c240cfaad7e8e887d2bc99aaa9a54e870fd337874507c209051fee8d5bd282",
+    "generated_from": {
+      "local_url": "/slides/2019-SACinvitedtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/c45d73d79b5f01a9.jpg",
+    "size_bytes": 37653,
+    "sha256": "e0066f2097a3af22705fe9f63d6e7b5a08e038a03a0dceb9e7e16818c521b550",
+    "generated_from": {
+      "local_url": "/slides/isogeny-promise.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/c5c86e3e8ce3f72c.jpg",
+    "size_bytes": 31474,
+    "sha256": "7950e7d8f3caee7ab37780a0a06d51c7af09c6564e034b5df00ca2a2009a34ab",
+    "generated_from": {
+      "local_url": "/slides/2012-EOItalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/c60b168f3540faf9.jpg",
+    "size_bytes": 33561,
+    "sha256": "626c24dd668fc90e3f8c6eaa0eab3335198f985eed195369f6bd15b07b8805e6",
+    "generated_from": {
+      "local_url": "/slides/2017-Croatiatutorial1.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/c6ff8a30ecfc2bfc.jpg",
+    "size_bytes": 31762,
+    "sha256": "e659e3d5b5cba2baba0816e0b024dc2b75244f632b91417d2acfb72a8e30fb4b",
+    "generated_from": {
+      "local_url": "/slides/2018-Croatiainvitedtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/ca00cc38e506b5ad.jpg",
+    "size_bytes": 32916,
+    "sha256": "3521eae733995b14e056559672cfcfbd81782afeceb6bd485adf66b0da2becda",
+    "generated_from": {
+      "local_url": "/slides/2011-PhDFinalSeminar.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/cb3b7d04e51b82f3.jpg",
+    "size_bytes": 55348,
+    "sha256": "c47b8010c5da7d50890b5c8b715d1c5cfadc89da2005e2c6b8d61b8341e5eea1",
+    "generated_from": {
+      "local_url": "/slides/2014-EuroCrypt2014talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/cc6cf41fc5c1c7e9.jpg",
+    "size_bytes": 35759,
+    "sha256": "4054066e57048ab92bb2499f21857175a2d7b7ef875e19e7f1656a3f69e9d281",
+    "generated_from": {
+      "local_url": "/slides/UCL-talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/d5bf0e896369070a.jpg",
+    "size_bytes": 33578,
+    "sha256": "c414e4de7b26624b40f1d18ed72c6c3894e6e3853f446c670c87b89795980053",
+    "generated_from": {
+      "local_url": "/slides/2016-SPACE2016tutorial1.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/db591dac17c83841.jpg",
+    "size_bytes": 47217,
+    "sha256": "0f130080537f271d44f1bb2986b9884505b2dd40dfec3a882fb0d1e870242e76",
+    "generated_from": {
+      "local_url": "/slides/2017-AsiaCrypt2017talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/de16e0afbeada2c0.jpg",
+    "size_bytes": 37923,
+    "sha256": "858d47f2aaac4b664c31a84c347d6e888f9d5eefdd0e70a8ae1b3681aedd75d7",
+    "generated_from": {
+      "local_url": "/slides/2010-UCI2010talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/e1f0f362499d5a3a.jpg",
+    "size_bytes": 38914,
+    "sha256": "d890d3927bb9e8ce25d6713dcd254f2710c22619ac734f14aa637f26a59a7bce",
+    "generated_from": {
+      "local_url": "/slides/2012-ECCrumptalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/e49af59a8170f399.jpg",
+    "size_bytes": 49700,
+    "sha256": "254bf0b31b217ff9e525c2dce203ab4dced06096d1d5b6b1b223581d4bafcc83",
+    "generated_from": {
+      "local_url": "/slides/2012-MSRLunchtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/e6e8454ce194c5e6.jpg",
+    "size_bytes": 43559,
+    "sha256": "c1662e636913f857438fb7a93d0f82d3836840c5043f802a03ba7848af349795",
+    "generated_from": {
+      "local_url": "/slides/2015-NISTPQCtalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/eb10c77cb3b83921.jpg",
+    "size_bytes": 37260,
+    "sha256": "a7107b8151b2a37eb99e5bbc05c543f9d8ea8bd86b30c83b66e1794524420f17",
+    "generated_from": {
+      "local_url": "/slides/The_Future_of_Encryption.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/edc4d814b2e9c076.jpg",
+    "size_bytes": 36876,
+    "sha256": "7d86fb39a577f3d8b184d6d4e41fa8c19b0d5b342053158b44b101217d2b6378",
+    "generated_from": {
+      "local_url": "/slides/2012-EiPsitalk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/f7202a3d44f1164a.jpg",
+    "size_bytes": 47595,
+    "sha256": "fc445963959dff6f1f9127b89b089421c1cef1bc894d79473acc0fa4252c9f1d",
+    "generated_from": {
+      "local_url": "/slides/2011-IndoCrypt2011talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/talks/fc62d1a3e2020e2f.jpg",
+    "size_bytes": 44875,
+    "sha256": "601bf6c0504896e0a3ba36d1358a06f07127e807f57658459b2d2db8006d03b4",
+    "generated_from": {
+      "local_url": "/slides/2009-Pairing2009talk.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/tutorials/isogenies-webinar.jpg",
+    "size_bytes": 25120,
+    "sha256": "a67b1c1b14433fdb3acce60ae3bda4e1ef5bc66c3eb12e8be32a73069f3713f7",
+    "provenance": "See content/branding.json, featured-media.json, tutorials.json or review-notes.md",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/tutorials/pairings.jpg",
+    "size_bytes": 10937,
+    "sha256": "c2a0ea683579986cc49d9b47a96d55b2947853f53d5e77ece9892ed29561ccc5",
+    "provenance": "See content/branding.json, featured-media.json, tutorials.json or review-notes.md",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/tutorials/research-ahecs.jpg",
+    "size_bytes": 34928,
+    "sha256": "f1fd66aef19caef3d1621916054031c51ae21892b1faddec7d21a809ff9b35b9",
+    "provenance": "See content/branding.json, featured-media.json, tutorials.json or review-notes.md",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/tutorials/research-elliptic.jpg",
+    "size_bytes": 23838,
+    "sha256": "517fb3c90de0fd52af170a9890173732fb65fb8a7072592439991212d4f59b15",
+    "provenance": "See content/branding.json, featured-media.json, tutorials.json or review-notes.md",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/tutorials/research-hyperelliptic.jpg",
+    "size_bytes": 27699,
+    "sha256": "9f52d67d3c90b331a748170697be79f3df266dafe047b32c1bd75df8ea56f0f5",
+    "provenance": "See content/branding.json, featured-media.json, tutorials.json or review-notes.md",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/images/tutorials/research-isogenies.jpg",
+    "size_bytes": 32851,
+    "sha256": "5a5cca5f44e16747efaa09a46126d07466059fca890976dcdd40aed95f59b003",
+    "provenance": "See content/branding.json, featured-media.json, tutorials.json or review-notes.md",
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
+  },
+  {
+    "local_url": "/s/01-Elliptic-Curves-October-1.pdf",
+    "provenance": "See branding.json, featured-media.json, tutorials.json and REVIEW.md",
+    "size_bytes": 4100813,
+    "sha256": "114c1d74b4d28c27d702b4a660d4c8e04cb902bb3fd81d31fbaf89456bac8897",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "local_url": "/s/02-Hyperelliptic-Curves-October-1.pdf",
+    "provenance": "See branding.json, featured-media.json, tutorials.json and REVIEW.md",
+    "size_bytes": 628553,
+    "sha256": "9c33523244f47bf93ff4af6e7b850cccfbe0e671e16c56fbdd7b14a20b5c278d",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "local_url": "/s/ACS_talk_2025.pdf",
+    "provenance": "See branding.json, featured-media.json, tutorials.json and REVIEW.md",
+    "size_bytes": 1134664,
+    "sha256": "4727251ba3c84949d89aa9fe8ec0ed00ada669c27c38ac840e99178910f13746",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "local_url": "/s/QuantumSafeQLD.pdf",
+    "provenance": "See branding.json, featured-media.json, tutorials.json and REVIEW.md",
+    "size_bytes": 3428397,
+    "sha256": "056717887fc3989cdf18b764ca6e67f0b6b0c310bf786bc8f499b754d5412327",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "local_url": "/s/RMIT.pdf",
+    "provenance": "See branding.json, featured-media.json, tutorials.json and REVIEW.md",
+    "size_bytes": 646585,
+    "sha256": "45c0230ab22131da39fedd0c872d7e8bd1dc4419da896ab03a7a53fe79a71a4a",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "local_url": "/s/ScriptsNotes.zip",
+    "provenance": "See branding.json, featured-media.json, tutorials.json and REVIEW.md",
+    "size_bytes": 59375,
+    "sha256": "56c0ab5f2401276cb9860973b7a5d4a2cf14ceb67f6b5cb2943306c73a179515",
+    "file_type": "ZIP",
+    "content_type": "application/zip"
+  },
+  {
+    "local_url": "/s/The_Future_of_Encryption.pdf",
+    "provenance": "See branding.json, featured-media.json, tutorials.json and REVIEW.md",
+    "size_bytes": 405184,
+    "sha256": "eb10c77cb3b839215801d573d611ee6e6aaab9f038ea71dae66ad22aef2c771b",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "local_url": "/s/The_Future_of_Encryption_AHECS_2026.pdf",
+    "provenance": "See branding.json, featured-media.json, tutorials.json and REVIEW.md",
+    "size_bytes": 406668,
+    "sha256": "65dd21ad0a07aeea2c3753003b712d6bae7dff92f69c557dc02abcad109a48d2",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "local_url": "/s/crypto-2024.pdf",
+    "provenance": "See branding.json, featured-media.json, tutorials.json and REVIEW.md",
+    "size_bytes": 221493,
+    "sha256": "08826a19c207d4658a6144f7c75f2c173df8a73bfbb583cbf3c30633d5c04b02",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "local_url": "/s/isogeny-promise.pdf",
+    "provenance": "See branding.json, featured-media.json, tutorials.json and REVIEW.md",
+    "size_bytes": 1462989,
+    "sha256": "c45d73d79b5f01a9cdb32f792ad56237ce0211a71ae720ae5b085f2973416eab",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://www.craigcostello.com.au/s/01-Elliptic-Curves-October-1.pdf",
+    "local_url": "/slides/01-Elliptic-Curves-October-1.pdf",
+    "size_bytes": 4100813,
+    "sha256": "114c1d74b4d28c27d702b4a660d4c8e04cb902bb3fd81d31fbaf89456bac8897",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://www.craigcostello.com.au/s/02-Hyperelliptic-Curves-October-1.pdf",
+    "local_url": "/slides/02-Hyperelliptic-Curves-October-1.pdf",
+    "size_bytes": 628553,
+    "sha256": "9c33523244f47bf93ff4af6e7b850cccfbe0e671e16c56fbdd7b14a20b5c278d",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3840f8268c96dbbab4012/1609794575577/2009-Pairing2009talk.pdf",
+    "local_url": "/slides/2009-Pairing2009talk.pdf",
+    "size_bytes": 172126,
+    "sha256": "fc62d1a3e2020e2fee1761688119ddd41cdaa01acd5136d0b89075854fa72963",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff383dda6a0ae63d64d7176/1609794525357/2010-AfricaCrypt2010talk.pdf",
+    "local_url": "/slides/2010-AfricaCrypt2010talk.pdf",
+    "size_bytes": 229253,
+    "sha256": "749c10b760b36f1a0a63acc5743e869be7b53321cda8da30b3f67641cff96de6",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff382662547c5214a4de1fe/1609794150757/2010-Izmir2010talk.pdf",
+    "local_url": "/slides/2010-Izmir2010talk.pdf",
+    "size_bytes": 401334,
+    "sha256": "790648ae5a7cd5a5f33729d4dd5c0ac78da7d7b5c1a7bdf9851750c36bcdd94a",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff382408268c96dbbaacb9b/1609794113170/2010-LatinCrypt2010talk.pdf",
+    "local_url": "/slides/2010-LatinCrypt2010talk.pdf",
+    "size_bytes": 370221,
+    "sha256": "247414dd47ad77a8fc57e6d5ed0697cc10bab80d0916560a2e54f555637d9729",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff382b9232e037c66ee0af6/1609794234039/2010-PKC2010talk.pdf",
+    "local_url": "/slides/2010-PKC2010talk.pdf",
+    "size_bytes": 193445,
+    "sha256": "381b67d4b52c984b152942ced4b9a938b8a610630adc732e9f8ad8fce2129dad",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3821517af6f5d199ac518/1609794071440/2010-UCI2010talk.pdf",
+    "local_url": "/slides/2010-UCI2010talk.pdf",
+    "size_bytes": 1151357,
+    "sha256": "de16e0afbeada2c04dccf496c3cead5bc956c5d673766425daf775b18b8bcb2b",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff38291cb208745b749a7a5/1609794194224/2010-WAIFI2010talk.pdf",
+    "local_url": "/slides/2010-WAIFI2010talk.pdf",
+    "size_bytes": 187924,
+    "sha256": "31e5aab1285c363fbd84f2526fc6dd118e65b833676ee4aa2294967563680c8d",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff381e7143c0d28f2708d21/1609794026555/2011-IndoCrypt2011talk.pdf",
+    "local_url": "/slides/2011-IndoCrypt2011talk.pdf",
+    "size_bytes": 1651390,
+    "sha256": "f7202a3d44f1164a4285918f63904787f5b01ca12a7521421b923637a24b6319",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3818e289de731b31cf32c/1609793943615/2011-PhDFinalSeminar.pdf",
+    "local_url": "/slides/2011-PhDFinalSeminar.pdf",
+    "size_bytes": 4823764,
+    "sha256": "ca00cc38e506b5adee2f038ae750e66bcfb87afb93ba7ff6f3cd3730b3a05a17",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff38051461d8d43a33c6c11/1609793621934/2012-ECCinvitedtalk.pdf",
+    "local_url": "/slides/2012-ECCinvitedtalk.pdf",
+    "size_bytes": 1874510,
+    "sha256": "a00b3426fe4185279624934144b461d527300d30a9d559e76a719b7b7aaa8062",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff380960e058f15c9dacce8/1609793688076/2012-ECCrumptalk.pdf",
+    "local_url": "/slides/2012-ECCrumptalk.pdf",
+    "size_bytes": 814564,
+    "sha256": "e1f0f362499d5a3a02e33a22fd18117251b71f7f2eb791bf772ec987189eacdd",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff380c19d513670e3c1c8f2/1609793733298/2012-ECCworkshoptalk.pdf",
+    "local_url": "/slides/2012-ECCworkshoptalk.pdf",
+    "size_bytes": 2020141,
+    "sha256": "504f20e521df67070ef9dd8589cf48cf6f0d91a5fcf9087ee6c629d84c87bd8c",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff38114461d8d43a33ca6f8/1609793813961/2012-EOItalk.pdf",
+    "local_url": "/slides/2012-EOItalk.pdf",
+    "size_bytes": 600545,
+    "sha256": "c5c86e3e8ce3f72c32bee613553861a59f55cf96dc401bada20fc06a3336af97",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff380e9cb208745b7494739/1609793769833/2012-EiPsitalk.pdf",
+    "local_url": "/slides/2012-EiPsitalk.pdf",
+    "size_bytes": 547821,
+    "sha256": "edc4d814b2e9c07637f10fd7eb809ecf4444828e2549ecf293f80b369b3dad03",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3813be293bc1fe2b4e596/1609793855027/2012-MSRLunchtalk-2.pdf",
+    "local_url": "/slides/2012-MSRLunchtalk-2.pdf",
+    "size_bytes": 1080356,
+    "sha256": "990debd5cda63b1139058b8da4af6d5b86b7d29366a16dc3351643d8fa249ab2",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff38165143c0d28f27073de/1609793894946/2012-MSRLunchtalk.pdf",
+    "local_url": "/slides/2012-MSRLunchtalk.pdf",
+    "size_bytes": 621126,
+    "sha256": "e49af59a8170f3992281e41c011f99b97440da6463d5bc0576e46cbbbf2b5070",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37f21b6dc0c1e611b7edf/1609793316622/2013-AlgCurves2013talk.pdf",
+    "local_url": "/slides/2013-AlgCurves2013talk.pdf",
+    "size_bytes": 1532637,
+    "sha256": "bafd123a9a03bc58c1f5f8fa158c44e507187729284145282d763b503cd1f3fb",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37fd4461d8d43a33c543e/1609793493064/2013-CryptoSecForumtalk.pdf",
+    "local_url": "/slides/2013-CryptoSecForumtalk.pdf",
+    "size_bytes": 133939,
+    "sha256": "2ef8539609818bf7705edfc5314d779e725dc188c3b960b058bc4f5b7040af5d",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37fa1461d8d43a33c41c5/1609793442035/2013-EuroCrypt2013talk.pdf",
+    "local_url": "/slides/2013-EuroCrypt2013talk.pdf",
+    "size_bytes": 542873,
+    "sha256": "96408d96ef368ca29861d0c2dede88e8de3d6e698540fc1d854e24ab6f41c489",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3802217af6f5d199a452c/1609793571650/2013-JMMtalk.pdf",
+    "local_url": "/slides/2013-JMMtalk.pdf",
+    "size_bytes": 591016,
+    "sha256": "1ece23eaf1a06c3eaf11056157c64f41f87ba0b1a04490c483504920c7d46576",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37ef2e293bc1fe2b4487e/1609793267917/2013-MSRPrivacyTalk.pdf",
+    "local_url": "/slides/2013-MSRPrivacyTalk.pdf",
+    "size_bytes": 610091,
+    "sha256": "340e7817e3d7cf3fd1a57648b738774b8c53fdb92f15dbd3cc9d1617a0549694",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37f7de293bc1fe2b47398/1609793405599/2013-MSRlunchtalk.pdf",
+    "local_url": "/slides/2013-MSRlunchtalk.pdf",
+    "size_bytes": 478643,
+    "sha256": "b9476b6356c43f57b053292ee49a1ddc9e17352390347b555529a7f7cacfe07d",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37f4e0db4f45ccb0b7127/1609793358681/2013-SAC2013talk.pdf",
+    "local_url": "/slides/2013-SAC2013talk.pdf",
+    "size_bytes": 477905,
+    "sha256": "3057de7aa4b5cb7691bc97efc45f51e4fea9369fd39c55a01ef8030e709045ae",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37e9adac66e1e1638719b/1609793178899/2014-CFRGtalk.pdf",
+    "local_url": "/slides/2014-CFRGtalk.pdf",
+    "size_bytes": 274773,
+    "sha256": "41115b2b4a392974131bd248481acee6f423fc6b9b11856040b41085106c4bd9",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37dd9b6dc0c1e611b2f72/1609792987751/2014-ECCInvitedtalk.pdf",
+    "local_url": "/slides/2014-ECCInvitedtalk.pdf",
+    "size_bytes": 1606553,
+    "sha256": "71eefd687c2daf7c36dda7abbf46d11269c3686f68f684b8269df33f79d240d1",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37e3e232e037c66ecf6a0/1609793087072/2014-ECCRumptalk.pdf",
+    "local_url": "/slides/2014-ECCRumptalk.pdf",
+    "size_bytes": 876811,
+    "sha256": "bd710d627cbba39d84c68b17c4f91922833330124aee1129169b4350d4647957",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37ec1232e037c66ed169a/1609793218886/2014-EuroCrypt2014talk.pdf",
+    "local_url": "/slides/2014-EuroCrypt2014talk.pdf",
+    "size_bytes": 572049,
+    "sha256": "cb3b7d04e51b82f3c201852b39a803095a9e3de05a55a2da1d54262231315c9d",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37d4f634c4829a8f86e74/1609792847062/2015-AMS2015talk.pdf",
+    "local_url": "/slides/2015-AMS2015talk.pdf",
+    "size_bytes": 302661,
+    "sha256": "08757e87215864dd957885657e073cdee919bbef4fba7e981535f3d759a154a8",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37b6e0493bd28278240c2/1609792368670/2015-AsiaCrypt2015talk.pdf",
+    "local_url": "/slides/2015-AsiaCrypt2015talk.pdf",
+    "size_bytes": 1278753,
+    "sha256": "96a28033f7762e07480cc799358e2baaeb9471ce076aed311b7b085c8e1ed3b2",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37bf8f218a25ea6a93b9f/1609792504090/2015-NIST-position.pdf",
+    "local_url": "/slides/2015-NIST-position.pdf",
+    "size_bytes": 354361,
+    "sha256": "3b3aaae87a5674c13187465b6c70e290bbd4653bd281cbf645ab6719a32c8915",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37b9b0493bd2827824d87/1609792412586/2015-NISTFourQtalk.pdf",
+    "local_url": "/slides/2015-NISTFourQtalk.pdf",
+    "size_bytes": 652375,
+    "sha256": "29b0cf4b40adf984347acefcbd070eca4ca0088328c09003c26a4538de6d6b8b",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37d78a6a0ae63d64bd58b/1609792890122/2015-NISTPQCtalk.pdf",
+    "local_url": "/slides/2015-NISTPQCtalk.pdf",
+    "size_bytes": 1166668,
+    "sha256": "e6e8454ce194c5e6629893e4a679220878db223f3146e2afdad06f56ce00d331",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37a3f17af6f5d1998c02d/1609792066582/2016-Aucklandinvitedtalk.pdf",
+    "local_url": "/slides/2016-Aucklandinvitedtalk.pdf",
+    "size_bytes": 2418519,
+    "sha256": "ad8442454c2710b3e4caa2ed3d28efd4bf8b9e2fb1eecb2381b0cff017151873",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37a954688fd421b7a3806/1609792150482/2016-Crypto2016talk.pdf",
+    "local_url": "/slides/2016-Crypto2016talk.pdf",
+    "size_bytes": 913043,
+    "sha256": "43240d63b6f668c8291568fbc1ce7fc45aad82ee71b68e7fc1a646b91bed1634",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff379814688fd421b7a05b2/1609791877407/2016-MSRIndiainvitedtalk.pdf",
+    "local_url": "/slides/2016-MSRIndiainvitedtalk.pdf",
+    "size_bytes": 2524616,
+    "sha256": "b839c9a9d3c19e772c46134362ef8cb813b9cab349d5f0a4bc9bfba5efd5cee9",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37ad80e058f15c9d96b5a/1609792217166/2016-Nijmegeninvitedtalk.pdf",
+    "local_url": "/slides/2016-Nijmegeninvitedtalk.pdf",
+    "size_bytes": 1342547,
+    "sha256": "8045d488321b41afbbc4d383bcd2e8a43c68d2266a4fa099cd426192a90a4f02",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37b370db4f45ccb0a75bb/1609792315276/2016-QUTmathseminar1talk.PDF",
+    "local_url": "/slides/2016-QUTmathseminar1talk.PDF",
+    "size_bytes": 2762727,
+    "sha256": "221f4a2d106890c42b0414919f8d1611a24c1e34df08cf8f2958ff4c64392b9d",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37b0a18d44937a9410a8d/1609792269404/2016-QUTmathseminartalk2.PDF",
+    "local_url": "/slides/2016-QUTmathseminartalk2.PDF",
+    "size_bytes": 2016919,
+    "sha256": "882ae2bf5eb6034c16b0ef7747ac801fb19d1d5c7432d1ab7412d5569d7a27bd",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff379b22fb5c129f272ff68/1609791925429/2016-SPACE2016invited.pdf",
+    "local_url": "/slides/2016-SPACE2016invited.pdf",
+    "size_bytes": 1582743,
+    "sha256": "acb4f6f71ccf9a7536357efd8439dd7c653df13a6fca37d36808e2251d8e125e",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37a14232e037c66ec0543/1609792023408/2016-SPACE2016tutorial1.pdf",
+    "local_url": "/slides/2016-SPACE2016tutorial1.pdf",
+    "size_bytes": 2636314,
+    "sha256": "d5bf0e896369070a1c1310bb9bfa74ba627e0e6c292d374deaf0226d539d2db4",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff379e7673a147fcc02c742/1609791977778/2016-SPACE2016tutorial2.pdf",
+    "local_url": "/slides/2016-SPACE2016tutorial2.pdf",
+    "size_bytes": 1434294,
+    "sha256": "1ca5ed8710d857469e94a29145e6bc3255ff97507dd27b2f637d39b9a23fd8d7",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff377e1673a147fcc02381c/1609791459501/2017-AsiaCrypt2017talk.pdf",
+    "local_url": "/slides/2017-AsiaCrypt2017talk.pdf",
+    "size_bytes": 1281375,
+    "sha256": "db591dac17c83841e5f2e032cbfda72b916a7bbf8d03587ab185e345e728c5e4",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37925634c4829a8f785ef/1609791784561/2017-Croatiainvitedtalk.pdf",
+    "local_url": "/slides/2017-Croatiainvitedtalk.pdf",
+    "size_bytes": 1622929,
+    "sha256": "39439397940143a4124a10b51323883aa27bb0815e6fa5c43fc6033e3a4b6647",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3795717af6f5d19988575/1609791833880/2017-Croatiatutorial1.pdf",
+    "local_url": "/slides/2017-Croatiatutorial1.pdf",
+    "size_bytes": 1563937,
+    "sha256": "c60b168f3540faf928a3ea3bc480c9605bac9ce4737e340cb1707b87d5a5ee05",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff378bdac5ecf06b683b05b/1609791681245/2017-ECCinvitedtalk.pdf",
+    "local_url": "/slides/2017-ECCinvitedtalk.pdf",
+    "size_bytes": 1928851,
+    "sha256": "b8d1d5f5725ba1341eb276268eb5534285a3cc109b240d69036f8f4b8efcd241",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff378f99d513670e3bfdaa2/1609791740380/2017-ECCtutorial.pdf",
+    "local_url": "/slides/2017-ECCtutorial.pdf",
+    "size_bytes": 1736744,
+    "sha256": "4ab6917f5a2b9f34e63f30121237fffc12aad827ab2689a8c4ab54056c983ab4",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3770e10ee9f5922d0da8b/1609791251641/2018-ASEC2018talk.pdf",
+    "local_url": "/slides/2018-ASEC2018talk.pdf",
+    "size_bytes": 3259802,
+    "sha256": "a46f1917cf5693bc28224089b2df5ddc2ea6b48083783f89a47aad7471533250",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff377390e058f15c9d87d53/1609791291841/2018-AsiaCrypt2018talk.pdf",
+    "local_url": "/slides/2018-AsiaCrypt2018talk.pdf",
+    "size_bytes": 1861572,
+    "sha256": "1f729b2e764afd29e1c31064732d9975944b6477e5c3709a93026ec1ea65e0ac",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff377740493bd2827816c74/1609791349766/2018-Croatiainvitedtalk.pdf",
+    "local_url": "/slides/2018-Croatiainvitedtalk.pdf",
+    "size_bytes": 1392965,
+    "sha256": "c6ff8a30ecfc2bfcbcddea0d88210ed6f015ceb1eceb2922d1ce30470f992102",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff377be5de1995715f34e1d/1609791423728/2018-Croatiatutorial1.pdf",
+    "local_url": "/slides/2018-Croatiatutorial1.pdf",
+    "size_bytes": 1123259,
+    "sha256": "9a0370c079896dce31aae0f94c7aa8d440c63120b4107fde5f8355d1c17c978f",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff376e889898a72c7c819db/1609791211682/2019-OxfordPQCtalk.pdf",
+    "local_url": "/slides/2019-OxfordPQCtalk.pdf",
+    "size_bytes": 2173713,
+    "sha256": "2112150d2c3e07d5a496b23190735adf0159a6ffbdf024f816e6787495f09964",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3765bdac66e1e16365f6f/1609791070484/2019-SACinvitedtalk.pdf",
+    "local_url": "/slides/2019-SACinvitedtalk.pdf",
+    "size_bytes": 2859551,
+    "sha256": "c185e3ee029decb52b0a16d5bdcddadb33bc716a917f0ce02d273c708219c51e",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff376bc0db4f45ccb096682/1609791167623/2019-SACtutorial1.pdf",
+    "local_url": "/slides/2019-SACtutorial1.pdf",
+    "size_bytes": 1722348,
+    "sha256": "bc0d64070445fde56454a4d127397cb7a55c14542760235519cc4989666e2a37",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff3769246517e2c74004171/1609791131165/2019-SACtutorial2.pdf",
+    "local_url": "/slides/2019-SACtutorial2.pdf",
+    "size_bytes": 1999018,
+    "sha256": "5528ef6c6d0007305e5d527be9652d6ca0ada16cf251761fe25eaa1a006a5a61",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff370b5ac5ecf06b6819e07/1609789622281/2020-AsiaCrypt2020talk.pdf",
+    "local_url": "/slides/2020-AsiaCrypt2020talk.pdf",
+    "size_bytes": 748685,
+    "sha256": "8768e21d3fdfa03a5f62be0d014242782d705ef7009ab3c0cc31990310e22929",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff37086143c0d28f26c224e/1609789576630/2020-PQCrypto2020talk.pdf",
+    "local_url": "/slides/2020-PQCrypto2020talk.pdf",
+    "size_bytes": 950688,
+    "sha256": "ab5e6131054d793b1be921fbacd737eb2ef14962f358a22bc8516c8d904c9538",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff375f1f218a25ea6a7c043/1609790963192/2020-webinar.pdf",
+    "local_url": "/slides/2020-webinar.pdf",
+    "size_bytes": 1728381,
+    "sha256": "99e27057c74ada3769b94c70f659d83c6b62304af9571970f26761a80d7ca425",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://www.craigcostello.com.au/s/ACS_talk_2025.pdf",
+    "local_url": "/slides/ACS_talk_2025.pdf",
+    "size_bytes": 1134664,
+    "sha256": "4727251ba3c84949d89aa9fe8ec0ed00ada669c27c38ac840e99178910f13746",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/6195113972e64d081ad878fa/1637159226485/ICSP-talk.pdf",
+    "local_url": "/slides/ICSP-talk.pdf",
+    "size_bytes": 562389,
+    "sha256": "00c9e6cc4188a6ae0d2ca4d01fb5dfa0466799aef06e1e8022c794040ff940f9",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/60c7ad51568e8e2f7e668faf/1623698769624/NIST.pdf",
+    "local_url": "/slides/NIST.pdf",
+    "size_bytes": 25376,
+    "sha256": "75bd5041cd08842caba1d78dcc7ec16c5943202505653a187e9f2a94221e5c69",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://www.craigcostello.com.au/s/QuantumSafeQLD.pdf",
+    "local_url": "/slides/QuantumSafeQLD.pdf",
+    "size_bytes": 3428397,
+    "sha256": "056717887fc3989cdf18b764ca6e67f0b6b0c310bf786bc8f499b754d5412327",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://www.craigcostello.com.au/s/RMIT.pdf",
+    "local_url": "/slides/RMIT.pdf",
+    "size_bytes": 646585,
+    "sha256": "45c0230ab22131da39fedd0c872d7e8bd1dc4419da896ab03a7a53fe79a71a4a",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://www.craigcostello.com.au/s/The_Future_of_Encryption.pdf",
+    "local_url": "/slides/The_Future_of_Encryption.pdf",
+    "size_bytes": 405184,
+    "sha256": "eb10c77cb3b839215801d573d611ee6e6aaab9f038ea71dae66ad22aef2c771b",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://www.craigcostello.com.au/s/The_Future_of_Encryption_AHECS_2026.pdf",
+    "local_url": "/slides/The_Future_of_Encryption_AHECS_2026.pdf",
+    "size_bytes": 406668,
+    "sha256": "65dd21ad0a07aeea2c3753003b712d6bae7dff92f69c557dc02abcad109a48d2",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/602eda29374c38656a39a586/1613683247335/UCL-talk.pdf",
+    "local_url": "/slides/UCL-talk.pdf",
+    "size_bytes": 2297568,
+    "sha256": "cc6cf41fc5c1c7e91e198dbf55a4a0ae72d50757a1bff7ad502514e0c86b7a5b",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/62e2f3140618d940376662fe/1659040535574/UCLA.pdf",
+    "local_url": "/slides/UCLA.pdf",
+    "size_bytes": 1915070,
+    "sha256": "73410ab2b0185443182c98c7a5a89805a5f5169ba47e801ff8f1f37982a65e26",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://www.craigcostello.com.au/s/crypto-2024.pdf",
+    "local_url": "/slides/crypto-2024.pdf",
+    "size_bytes": 221493,
+    "sha256": "08826a19c207d4658a6144f7c75f2c173df8a73bfbb583cbf3c30633d5c04b02",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://www.craigcostello.com.au/s/isogeny-promise.pdf",
+    "local_url": "/slides/isogeny-promise.pdf",
+    "size_bytes": 1462989,
+    "sha256": "c45d73d79b5f01a9cdb32f792ad56237ce0211a71ae720ae5b085f2973416eab",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/613a808737a850442ea82bfb/1631223959564/why-hyperelliptic.pdf",
+    "local_url": "/slides/why-hyperelliptic.pdf",
+    "size_bytes": 6285709,
+    "sha256": "5fa4ea1e2fc1c4c32b6753e6acde193b19c83f8500bb9ac0f543edc37caf6874",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff394720493bd28278889c6/1609798774687/PairingsForBeginners.pdf",
+    "local_url": "/tutorials/PairingsForBeginners.pdf",
+    "size_bytes": 2210098,
+    "sha256": "3872946b8fab9f043850d4ac4c83cdc099115023e8d400b9ce1181dfcb6b56fa",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "original_url": "https://rose-clarinet-a4y5.squarespace.com/s/ScriptsNotes.zip",
+    "local_url": "/tutorials/ScriptsNotes.zip",
+    "size_bytes": 59375,
+    "sha256": "56c0ab5f2401276cb9860973b7a5d4a2cf14ceb67f6b5cb2943306c73a179515",
+    "file_type": "ZIP",
+    "content_type": "application/zip"
+  }
+]
