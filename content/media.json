@@ -208,7 +208,7 @@
     "id": "media-008",
     "title": "Preparing for the Post-Quantum Deadline: Why Governments Need to Upgrade Encryption Now",
     "detail": "Public Sector Network",
-    "year": null,
+    "year": "2026",
     "original_text": "Preparing for the Post-Quantum Deadline: Why Governments Need to Upgrade Encryption Now . Public Sector Network.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -240,7 +240,7 @@
     "id": "media-009",
     "title": "Quantum Computing Meets AI Implications for the Future of Intelligence Practice",
     "detail": ", AIPIO Round Table",
-    "year": null,
+    "year": "2026",
     "original_text": "Quantum Computing Meets AI Implications for the Future of Intelligence Practice , AIPIO Round Table.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -267,7 +267,7 @@
     "id": "media-010",
     "title": "Quantum Safe Queensland: a Practical Roadmap",
     "detail": "AISA’s Cyber Voices Podcast. Apple, Amazon",
-    "year": null,
+    "year": "2026",
     "original_text": "Quantum Safe Queensland: a Practical Roadmap . AISA’s Cyber Voices Podcast. Apple , Amazon .",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -299,7 +299,7 @@
     "id": "media-011",
     "title": "Radio Interview on Post-Quantum Cryptography",
     "detail": "Byte into IT, 3RRR Digital Melbourne",
-    "year": null,
+    "year": "2026",
     "original_text": "Radio Interview on Post-Quantum Cryptography . Byte into IT, 3RRR Digital Melbourne.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -353,7 +353,7 @@
     "id": "media-013",
     "title": "World-Leaders in Cryptography",
     "detail": "Podcast Interview. YouTube. Apple. Spotify. Audible",
-    "year": null,
+    "year": "2026",
     "original_text": "World-Leaders in Cryptography . Podcast Interview. YouTube . Apple . Spotify . Audible .",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -393,7 +393,7 @@
     "id": "media-014",
     "title": "Radio Interview with Ellen Fanning",
     "detail": "The Drive, ABC Radio Brisbane",
-    "year": null,
+    "year": "2025",
     "original_text": "Radio Interview with Ellen Fanning . The Drive, ABC Radio Brisbane.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -444,7 +444,7 @@
     "id": "media-016",
     "title": "Scam awareness week",
     "detail": "FiveAA Radio",
-    "year": null,
+    "year": "2025",
     "original_text": "Scam awareness week . FiveAA Radio.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -638,7 +638,7 @@
     "id": "media-023",
     "title": "Radio Interview with ABC Brisbane",
     "detail": "ABC Brisbane Interview",
-    "year": null,
+    "year": "2025",
     "original_text": "Radio Interview with ABC Brisbane . ABC Brisbane Interview.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -665,7 +665,7 @@
     "id": "media-024",
     "title": "Post-quantum cryptography: Supersingular isogenies for beginners",
     "detail": "Microsoft Research Webinar",
-    "year": null,
+    "year": "2020",
     "original_text": "Post-quantum cryptography: Supersingular isogenies for beginners . Microsoft Research Webinar.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -685,13 +685,15 @@
     },
     "local_image": "/images/tutorials/isogenies-webinar.jpg",
     "image_source": "Opening slide of the same May 2020 Microsoft Research webinar, rendered from retained slides",
-    "image_fit": "contain"
+    "image_fit": "contain",
+    "year_source_url": "https://www.microsoft.com/en-us/research/video/post-quantum-cryptography-supersingular-isogenies-for-beginners/",
+    "year_note": "Original webinar aired on 28 May 2020; the linked YouTube recording was uploaded in 2021."
   },
   {
     "id": "media-025",
     "title": "News from the front in the post-quantum crypto wars",
     "detail": "Microsoft Research podcast",
-    "year": null,
+    "year": "2019",
     "original_text": "News from the front in the post-quantum crypto wars . Microsoft Research podcast.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
@@ -714,7 +716,7 @@
     "id": "media-026",
     "title": "In the war for information, will quantum computers defeat cryptographers?",
     "detail": "Talk at TEDxSydney",
-    "year": null,
+    "year": "2019",
     "original_text": "In the war for information, will quantum computers defeat cryptographers? Talk at TEDxSydney.",
     "source_page": "https://www.craigcostello.com.au/media",
     "links": [
