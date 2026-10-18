@@ -14,20 +14,6 @@
     ]
   },
   {
-    "id": "papers-002",
-    "title": "On pairs of primes with small order reciprocity",
-    "detail": "Craig Costello and Gaurish Korpal. LuCaNT 2025, Contemporary Mathematics, American Mathematical Society, to appear",
-    "year": "2025",
-    "original_text": "Craig Costello and Gaurish Korpal. On pairs of primes with small order reciprocity . LuCaNT 2025, Contemporary Mathematics, American Mathematical Society, to appear.",
-    "source_page": "https://www.craigcostello.com.au/papers",
-    "links": [
-      {
-        "text": "On pairs of primes with small order reciprocity",
-        "original_url": "https://eprint.iacr.org/2025/150.pdf"
-      }
-    ]
-  },
-  {
     "id": "papers-003",
     "title": "Efficient algorithms for the detection of (N,N)-splittings and endomorphisms",
     "detail": "Maria Corte-Real Santos, Craig Costello, and Sam Frengley. Journal of Cryptology, vol. 39(2), 2026",
@@ -45,6 +31,20 @@
       }
     ],
     "update_source": "Uploaded CV / pubs-type.tex"
+  },
+  {
+    "id": "papers-002",
+    "title": "On pairs of primes with small order reciprocity",
+    "detail": "Craig Costello and Gaurish Korpal. LuCaNT 2025, Contemporary Mathematics, American Mathematical Society, to appear",
+    "year": "2025",
+    "original_text": "Craig Costello and Gaurish Korpal. On pairs of primes with small order reciprocity . LuCaNT 2025, Contemporary Mathematics, American Mathematical Society, to appear.",
+    "source_page": "https://www.craigcostello.com.au/papers",
+    "links": [
+      {
+        "text": "On pairs of primes with small order reciprocity",
+        "original_url": "https://eprint.iacr.org/2025/150.pdf"
+      }
+    ]
   },
   {
     "id": "papers-004",

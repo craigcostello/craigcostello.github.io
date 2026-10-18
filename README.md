@@ -40,8 +40,8 @@ to change when adding content. The full archives and their counts update togethe
 ## Content and layout
 
 - `content/papers.json`, `talks.json`, `media.json`: one record per item. Array
-  order is display order. Do not sort by guessed dates. The existing 42 papers
-  retain the exact order verified on Craig's live papers page on 18 October.
+  order is display order. Do not sort by guessed dates. Craig's editorial updates
+  take precedence over the original import order retained in `migration-paper-order.json`.
 - `content/site.json`: homepage media highlight IDs and paper/talk highlight counts.
 - `content/profile.json`, `career.json`, `people.json`, `service.json`: profile,
   employment/education, supervision/interns, chairing, editorial and PC service.

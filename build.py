@@ -6,7 +6,7 @@ from cards import render_card
 ROOT=pathlib.Path(__file__).resolve().parent
 OUT=ROOT/'dist'
 DATA={key:json.loads((ROOT/'content'/f'{key}.json').read_text()) for key in ['papers','talks','media','tutorials','profile','people','career','site','branding','service']}
-# Array order is editorial: it matches the live page and puts new additions first.
+# Array order is editorial: preserve Craig's chosen publication order.
 DATA['watch']=[item for item in DATA['media'] if item['category']=='watch']
 DATA['print']=[item for item in DATA['media'] if item['category']=='print']
 CSS=(ROOT/'src/styles.css').read_text()

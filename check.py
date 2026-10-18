@@ -55,9 +55,9 @@ for category in ['watch','print']:
 
 papers=read('papers')
 assert [id for id in page.article_ids if id.startswith('papers-')]==[p['id'] for p in papers], 'Paper array order must survive the build'
-# Existing migrated papers retain the verified live-site order, allowing new entries anywhere.
-original=read('migration-paper-order')['ids']; original_set=set(original)
-assert [p['id'] for p in papers if p['id'] in original_set]==original, 'Migrated paper order differs from the live page'
+# Keep every migrated paper while allowing Craig to update the editorial order.
+original_set=set(read('migration-paper-order')['ids'])
+assert original_set.issubset({p['id'] for p in papers}), 'A migrated paper is missing'
 for talk in read('talks'):
  assert talk.get('preview_image'), 'Missing slide thumbnail: '+talk['id']
  assert (ROOT/'public'/talk['preview_image'].lstrip('/')).exists(), talk['id']

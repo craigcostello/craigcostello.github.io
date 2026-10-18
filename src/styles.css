@@ -48,3 +48,18 @@ h1,h2,h3,.detail,.person-name,.career-content,.tile-meta{overflow-wrap:anywhere}
  .opportunities{padding:20px 17px}
 }
 @media(hover:none){a:hover{text-decoration:none}.tile-visual:hover{opacity:1}}
+/* Balance the portrait with the quantum hourglass from Craig's talks. */
+.profile{grid-template-columns:160px minmax(0,1fr) 160px}
+.profile-mark{display:block;width:160px;height:194px;object-fit:contain;justify-self:end}
+@media(min-width:601px) and (max-width:800px){
+ .profile{grid-template-columns:120px minmax(0,1fr) 96px;gap:24px}
+ .profile-photo{width:120px;height:150px}
+ .profile-mark{width:96px;height:150px}
+}
+@media(max-width:600px){
+ .profile{grid-template-columns:repeat(2,minmax(0,1fr));gap:22px;align-items:center}
+ .profile-photo{grid-column:1;grid-row:1}
+ .profile-copy{grid-column:1/-1;grid-row:2}
+ .profile-mark{grid-column:2;grid-row:1;width:96px;height:126px}
+}
+@media(max-width:380px){.profile-mark{width:110px;height:136px}}

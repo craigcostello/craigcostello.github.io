@@ -5,11 +5,11 @@ def render_home(root,data,preview,a,e,img,archive,target,card):
   return '<div class="section-heading"><h2 id="'+id+'">'+title+'</h2>'+(a('#'+all_id,all_text) if all_id else '')+'</div>'
  def image(path,alt='',cls='',lazy=True):
   return '<img src="'+img(path)+'" alt="'+e(alt)+'"'+(' class="'+cls+'"' if cls else '')+(' loading="lazy"' if lazy else '')+'>'
- out='<section class="profile" aria-labelledby="name">'+image('/images/craig-costello.jpg','Craig Costello','profile-photo',False)+'<div><h1 id="name">Craig Costello</h1><p class="roles">Professor in the School of Computer Science at '+a('https://www.qut.edu.au/','QUT')+'.<br>Chief Investigator in the '+a('https://mathquest.edu.au/','MathQuEST ARC Centre of Excellence')+'.</p><p class="roles interests">I work on post-quantum cryptography and computational number theory.</p><div class="profile-links">'+a('mailto:'+profile['email'],'Email')+a(profile['linkedin_url'],'LinkedIn')+a('#work-with-me','Work with me')+'</div><div class="affiliations">'
+ out='<section class="profile" aria-labelledby="name">'+image('/images/craig-costello.jpg','Craig Costello','profile-photo',False)+'<div class="profile-copy"><h1 id="name">Craig Costello</h1><p class="roles">Professor in the School of Computer Science at '+a('https://www.qut.edu.au/','QUT')+'.<br>Chief Investigator in the '+a('https://mathquest.edu.au/','MathQuEST ARC Centre of Excellence')+'.</p><p class="roles interests">I work on post-quantum cryptography and computational number theory.</p><div class="profile-links">'+a('mailto:'+profile['email'],'Email')+a(profile['linkedin_url'],'LinkedIn')+a('#work-with-me','Work with me')+'</div><div class="affiliations">'
  for key,url,label in [('qut','https://www.qut.edu.au/','QUT'),('mathquest','https://mathquest.edu.au/','MathQuEST')]:
   asset=branding.get(key,{})
   if asset.get('available'):out+='<a href="'+url+'">'+image(asset['local_url'],label,'qut-mark' if key=='qut' else '',False)+'</a>'
- out+='</div></div></section>'
+ out+='</div></div>'+image(branding['quantum_hourglass']['local_url'],'An hourglass with a quantum computer suspended inside','profile-mark',False)+'</section>'
  out+='<section class="section" aria-labelledby="watch"><span id="all-media"></span>'+heading('watch','Watch and listen','all-watch','All audio and video')+'<div class="tile-grid">'
  out+=''.join(card(media[id],'watch') for id in config['featured_watch'])
  out+='</div>'+archive('watch')+'</section>'

@@ -1785,5 +1785,13 @@
     "sha256": "56c0ab5f2401276cb9860973b7a5d4a2cf14ceb67f6b5cb2943306c73a179515",
     "file_type": "ZIP",
     "content_type": "application/zip"
+  },
+  {
+    "original_url": "https://www.craigcostello.com.au/s/The_Future_of_Encryption_AHECS_2026.pdf",
+    "local_url": "/images/logos/quantum-hourglass.png",
+    "size_bytes": 414285,
+    "sha256": "f60f67571fb52cd8ba43812b6d1c1bacfd3712d05470802522eb4ed77ffd0f92",
+    "file_type": "PNG",
+    "content_type": "image/png"
   }
 ]
