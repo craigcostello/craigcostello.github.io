@@ -63,6 +63,13 @@
     "content_type": "image/svg+xml"
   },
   {
+    "local_url": "/images/logos/smbtech.svg",
+    "size_bytes": 322,
+    "sha256": "d9f629faa52e060dbfa8daa91f6d8b73cb7ea2381e1e0cce2aac5a036b07df69",
+    "file_type": "SVG",
+    "content_type": "image/svg+xml"
+  },
+  {
     "local_url": "/images/media/media-001.jpg",
     "size_bytes": 112281,
     "sha256": "7c91b183398138c17ca69a35bff661ad3a0ad7397ee525519cc9f84357550e9a",

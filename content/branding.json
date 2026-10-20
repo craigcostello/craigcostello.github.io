@@ -43,5 +43,10 @@
     "source_local_url": "/slides/The_Future_of_Encryption_AHECS_2026.pdf",
     "description": "Monochrome quantum hourglass mark adapted from Craig Costello's AHECS Summit 2026 opening slide.",
     "treatment": "Black line art on transparency, generated from the original hourglass artwork."
+  },
+  "smbtech": {
+    "available": true,
+    "local_url": "/images/logos/smbtech.svg",
+    "description": "Simple outlet wordmark for the SMBtech media listing"
   }
 }
