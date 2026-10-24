@@ -35,13 +35,17 @@
   {
     "id": "papers-002",
     "title": "On pairs of primes with small order reciprocity",
-    "detail": "Craig Costello and Gaurish Korpal. LuCaNT 2025, Contemporary Mathematics, American Mathematical Society, to appear",
-    "year": "2025",
+    "detail": "Craig Costello and Gaurish Korpal. LuCaNT: Databases, Algorithms, and Computational Number Theory, Contemporary Mathematics, vol. 840, pp. 285–291, American Mathematical Society, 2026",
+    "year": "2026",
     "original_text": "Craig Costello and Gaurish Korpal. On pairs of primes with small order reciprocity . LuCaNT 2025, Contemporary Mathematics, American Mathematical Society, to appear.",
     "source_page": "https://www.craigcostello.com.au/papers",
     "links": [
       {
         "text": "On pairs of primes with small order reciprocity",
+        "original_url": "https://doi.org/10.1090/conm/840/16821"
+      },
+      {
+        "text": "Full version",
         "original_url": "https://eprint.iacr.org/2025/150.pdf"
       }
     ]
