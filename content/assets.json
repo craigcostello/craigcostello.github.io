@@ -63,6 +63,13 @@
     "content_type": "image/svg+xml"
   },
   {
+    "local_url": "/images/logos/information-age.svg",
+    "size_bytes": 437,
+    "sha256": "7edcd9086606b55e84efef4a8a1d698468639e367452c865b726d9ca8e59adcf",
+    "file_type": "SVG",
+    "content_type": "image/svg+xml"
+  },
+  {
     "local_url": "/images/logos/smbtech.svg",
     "size_bytes": 322,
     "sha256": "d9f629faa52e060dbfa8daa91f6d8b73cb7ea2381e1e0cce2aac5a036b07df69",

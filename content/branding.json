@@ -48,5 +48,10 @@
     "available": true,
     "local_url": "/images/logos/smbtech.svg",
     "description": "Simple outlet wordmark for the SMBtech media listing"
+  },
+  "information_age": {
+    "available": true,
+    "local_url": "/images/logos/information-age.svg",
+    "description": "Simple outlet wordmark for the ACS Information Age media listing"
   }
 }
