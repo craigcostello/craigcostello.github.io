@@ -1,5 +1,25 @@
 [
   {
+    "id": "talks-073",
+    "title": "Post-quantum cryptography and the migration ahead",
+    "detail": "ISACA Brisbane Conference, November 12, 2026",
+    "year": "2026",
+    "source_page": "https://engage.isaca.org/brisbanechapter/events/eventdescription?CalendarEventKey=04608482-eec9-441b-ad88-01a0e67bd43a&CommunityKey=550f5305-5451-49b6-9a59-121584dadf9d",
+    "links": [
+      {
+        "text": "Post-quantum cryptography and the migration ahead",
+        "original_url": "https://craigcostello.com.au/slides/ISACA-Brisbane-2026-Post-Quantum-Cryptography.pdf",
+        "local_url": "/slides/ISACA-Brisbane-2026-Post-Quantum-Cryptography.pdf",
+        "asset_type": "PDF"
+      }
+    ],
+    "preview_image": "/images/talks/fa6dac799990fe02.jpg",
+    "preview_source": {
+      "local_url": "/slides/ISACA-Brisbane-2026-Post-Quantum-Cryptography.pdf",
+      "page": 1
+    }
+  },
+  {
     "id": "talks-001",
     "title": "The promise of isogeny-based cryptography",
     "detail": "Workshop on Elliptic Curves, Sydney. October 2, 2026",

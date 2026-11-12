@@ -2,7 +2,6 @@
   {
     "local_url": "/images/craig-costello.jpg",
     "source_file": "657B1299(1).jpg",
-    "source_library_file_id": "libfile_dff69191e47c819183f9b2b955f1378a",
     "size_bytes": 406364,
     "sha256": "1705ebd2e246d7a89c06efb9d27641f281e7761095f845a59619b67e0220cd81",
     "file_type": "JPG",
@@ -1807,5 +1806,24 @@
     "sha256": "f60f67571fb52cd8ba43812b6d1c1bacfd3712d05470802522eb4ed77ffd0f92",
     "file_type": "PNG",
     "content_type": "image/png"
+  },
+  {
+    "local_url": "/slides/ISACA-Brisbane-2026-Post-Quantum-Cryptography.pdf",
+    "size_bytes": 238869,
+    "sha256": "fa6dac799990fe029c3c185fdd842982e77b9f0ef3833b0e07f13d66c3ecf5fb",
+    "source_file": "Post-quantum cryptography and the migration ahead.pdf",
+    "file_type": "PDF",
+    "content_type": "application/pdf"
+  },
+  {
+    "local_url": "/images/talks/fa6dac799990fe02.jpg",
+    "size_bytes": 49103,
+    "sha256": "03a3f637b806ad9fb3f1417c030ca207ba70c376680d7f5b9716f7b992c39898",
+    "generated_from": {
+      "local_url": "/slides/ISACA-Brisbane-2026-Post-Quantum-Cryptography.pdf",
+      "page": 1
+    },
+    "file_type": "JPG",
+    "content_type": "image/jpeg"
   }
 ]
